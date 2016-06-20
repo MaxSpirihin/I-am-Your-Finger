@@ -1,0 +1,277 @@
+
+2.png
+size: 1006,1016
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arcade
+  rotate: false
+  xy: 364, 658
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 274
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: 1
+bomb
+  rotate: false
+  xy: 434, 46
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+bomb
+  rotate: false
+  xy: 564, 46
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+bomb
+  rotate: false
+  xy: 694, 46
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+bomb
+  rotate: false
+  xy: 834, 96
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+boss
+  rotate: false
+  xy: 364, 417
+  size: 468, 239
+  orig: 468, 239
+  offset: 0, 0
+  index: 1
+boss
+  rotate: false
+  xy: 364, 176
+  size: 468, 239
+  orig: 468, 239
+  offset: 0, 0
+  index: 2
+boss_live
+  rotate: false
+  xy: 260, 208
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+boss_skin
+  rotate: false
+  xy: 2, 16
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 834, 226
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+grenade_peace
+  rotate: false
+  xy: 824, 30
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 2, 916
+  size: 1000, 100
+  orig: 1000, 100
+  offset: 0, 0
+  index: -1
+lost
+  rotate: false
+  xy: 260, 2
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+plane
+  rotate: false
+  xy: 878, 658
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 834, 400
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+
+22.png
+size: 992,1018
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boom
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+boss
+  rotate: false
+  xy: 2, 779
+  size: 468, 239
+  orig: 468, 239
+  offset: 0, 0
+  index: 3
+boss
+  rotate: false
+  xy: 2, 538
+  size: 468, 239
+  orig: 468, 239
+  offset: 0, 0
+  index: 4
+boss_top
+  rotate: false
+  xy: 524, 46
+  size: 400, 234
+  orig: 400, 234
+  offset: 0, 0
+  index: 1
+helicopter
+  rotate: false
+  xy: 472, 614
+  size: 259, 404
+  orig: 259, 404
+  offset: 0, 0
+  index: 1
+helicopter
+  rotate: false
+  xy: 2, 132
+  size: 259, 404
+  orig: 259, 404
+  offset: 0, 0
+  index: 2
+helicopter
+  rotate: false
+  xy: 733, 614
+  size: 259, 404
+  orig: 259, 404
+  offset: 0, 0
+  index: 3
+helicopter
+  rotate: false
+  xy: 263, 132
+  size: 259, 404
+  orig: 259, 404
+  offset: 0, 0
+  index: 4
+menu_down
+  rotate: false
+  xy: 856, 484
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+menu_up
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+next_down
+  rotate: false
+  xy: 856, 354
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+next_up
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+restart_down
+  rotate: false
+  xy: 392, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+winner
+  rotate: false
+  xy: 524, 282
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+
+23.png
+size: 918,496
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss_top
+  rotate: false
+  xy: 518, 262
+  size: 400, 234
+  orig: 400, 234
+  offset: 0, 0
+  index: 2
+boss_top
+  rotate: false
+  xy: 2, 4
+  size: 400, 234
+  orig: 400, 234
+  offset: 0, 0
+  index: 3
+boss_win
+  rotate: false
+  xy: 2, 240
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+boss_win
+  rotate: false
+  xy: 260, 240
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+grenade
+  rotate: false
+  xy: 518, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+restart_up
+  rotate: false
+  xy: 776, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+self_rocket
+  rotate: false
+  xy: 776, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:5,
+	textColor:"000000FF",
+	extraTime:0.3,
+	monstersInfo:
+	[
+		{mode:[-2,700,150],id:6,time:6,backgroundName:self_rocket,size:[0.2],next:0,anim:0.2},
+		{mode:[-2,1200,300],id:6,time:6,backgroundName:self_rocket,size:[0.2],next:5.5,anim:0.2},
+		{mode:[-2,1500,500],id:6,time:6,backgroundName:self_rocket,size:[0.2],next:5.5,anim:0.2},
+		{mode:[-2,2000,1000],id:6,time:6,backgroundName:self_rocket,size:[0.2],next:5.5,anim:0.2},
+			
+	],
+}

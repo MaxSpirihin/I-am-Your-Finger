@@ -1,0 +1,43 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:10,
+	extraTime:0.8,
+	textColor:"000000FF",
+	monstersInfo:
+	[	
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		{mode:[-2,3000,500],id:6,time:1.3,backgroundName:self_rocket,size:[0.2],next:0.7,anim:0.2},
+		
+		
+	
+		
+		
+		{mode:[88],id:1,time:1.2,backgroundName:plane,size:[1.3,2.6,0.7,0.42,0.05],next:1.35,anim:0},
+		{mode:[12],id:1,time:1.2,backgroundName:plane,size:[1.3,2.6,0.7,0.42,0.05],next:1.35,anim:0},
+		{mode:[88],id:1,time:1.2,backgroundName:plane,size:[1.3,2.6,0.7,0.42,0.05],next:1.35,anim:0},
+		{mode:[12],id:1,time:1.2,backgroundName:plane,size:[1.3,2.6,0.7,0.42,0.05],next:1.35,anim:0},
+		
+		
+		
+		{mode:[0,50,40,6,1,3000],id:7,time:1.6,backgroundName:grenade,size:[0.2,0.1],next:1,anim:0},
+		{mode:[15,50,40,6,1,3000],id:7,time:1.6,backgroundName:grenade,size:[0.2,0.1],next:1,anim:0},
+		{mode:[65,50,40,6,1,3000],id:7,time:1.6,backgroundName:grenade,size:[0.2,0.1],next:1,anim:0},
+		{mode:[90,50,40,6,1,3000],id:7,time:1.6,backgroundName:grenade,size:[0.2,0.1],next:1,anim:0},
+	
+	
+	
+		{mode:[0,75,20,1],id:5,time:2,backgroundName:bomb,size:[0.2,1.6],next:0,anim:0.2},
+		{mode:[0,25,40,1],id:5,time:1,backgroundName:bomb,size:[0.2,1.6],next:0,anim:0.2},
+		{mode:[0,75,20,1],id:5,time:2,backgroundName:bomb,size:[0.2,1.6],next:0,anim:0.2},
+		{mode:[0,25,40,1],id:5,time:1,backgroundName:bomb,size:[0.2,1.6],next:0,anim:0.2},
+		
+		
+	],
+}

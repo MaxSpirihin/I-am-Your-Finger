@@ -1,0 +1,207 @@
+
+MainMenu.png
+size: 984,974
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back_down
+  rotate: false
+  xy: 392, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+back_up
+  rotate: false
+  xy: 726, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 334
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+background_ext
+  rotate: false
+  xy: 364, 334
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+dialog
+  rotate: false
+  xy: 2, 132
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+next_down
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+next_up
+  rotate: false
+  xy: 726, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+no
+  rotate: false
+  xy: 404, 132
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+off
+  rotate: false
+  xy: 856, 614
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+on
+  rotate: false
+  xy: 494, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pause_down
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pause_up
+  rotate: false
+  xy: 726, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+play_down
+  rotate: false
+  xy: 856, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+play_up
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+previous_down
+  rotate: false
+  xy: 726, 586
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+previous_up
+  rotate: false
+  xy: 856, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+MainMenu2.png
+size: 804,1010
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+no_down
+  rotate: false
+  xy: 2, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+no_down_ru
+  rotate: false
+  xy: 404, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+no_ru
+  rotate: false
+  xy: 2, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 404, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+ok_down
+  rotate: false
+  xy: 2, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+yes
+  rotate: false
+  xy: 404, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+yes_down
+  rotate: false
+  xy: 2, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+yes_down_ru
+  rotate: false
+  xy: 404, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+yes_ru
+  rotate: false
+  xy: 2, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+
+MainMenu3.png
+size: 764,642
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+author
+  rotate: false
+  xy: 364, 142
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+main_picture
+  rotate: false
+  xy: 2, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1

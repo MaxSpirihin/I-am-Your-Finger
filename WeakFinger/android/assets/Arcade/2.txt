@@ -1,0 +1,36 @@
+{
+	backgroundIndex:[1],
+	backgroundMoveTime:[10],
+	textColor:"000000FF",
+	startMonstersInfo:
+	[	
+		{mode:[-2,700,200],id:6,time:5,backgroundName:self_rocket,size:[0.1],next:0.7,anim:0.2},
+		
+		{mode:[-1],id:1,time:1.2,backgroundName:rocket,size:[0.05,0.1],next:0.6,anim:0},
+		{mode:[-1],id:1,time:1.2,backgroundName:rocket,size:[0.05,0.1],next:0.6,anim:0},
+		{mode:[-1],id:1,time:1.2,backgroundName:rocket,size:[0.05,0.1],next:0.6,anim:0},
+		{mode:[-1],id:1,time:1.2,backgroundName:rocket,size:[0.05,0.1],next:0.6,anim:0},
+		{mode:[-1],id:1,time:1.2,backgroundName:rocket,size:[0.05,0.1],next:0.6,anim:0},
+		{mode:[-1],id:1,time:1.2,backgroundName:rocket,size:[0.05,0.1],next:0.6,anim:0},
+		
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.25,0.5,0.7,0.42,0.05],next:1,anim:0},
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.25,0.5,0.7,0.42,0.05],next:1,anim:0},
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.25,0.5,0.7,0.42,0.05],next:1,anim:0},
+		
+		{mode:[-1],id:1,time:1.5,backgroundName:helicopter,size:[0.2,0.26,0.55,0.02,0.4],next:1,anim:0.01},
+		{mode:[-1],id:1,time:1.5,backgroundName:helicopter,size:[0.2,0.26,0.55,0.02,0.4],next:1,anim:0.01},
+		
+		
+		{mode:[-1,-1,20,1],id:5,time:1.5,backgroundName:bomb,size:[0.1,0.5],next:1.2,anim:0.2},
+		{mode:[-1,-1,20,1],id:5,time:1.5,backgroundName:bomb,size:[0.1,0.5],next:1.2,anim:0.2},
+		{mode:[-1,-1,20,1],id:5,time:1.5,backgroundName:bomb,size:[0.1,0.5],next:1.2,anim:0.2},
+		
+		{mode:[-1,-1,50,-1,1,3000],id:7,time:2,backgroundName:grenade,size:[0.08,0.04],next:1.5,anim:0},
+		{mode:[-1,-1,50,-1,1,3000],id:7,time:2,backgroundName:grenade,size:[0.08,0.04],next:1.5,anim:0},
+		
+		
+		
+
+		
+	],
+}

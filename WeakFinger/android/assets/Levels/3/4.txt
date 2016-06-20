@@ -1,0 +1,21 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	monstersInfo:
+	[
+		{mode:[50,50],id:8,time:1,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[0,100],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[100,0],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[100,100],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[0,0],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[50,50],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[20,100],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[50,0],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[80,100],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[100,0],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+		{mode:[0,0],id:8,time:0.7,backgroundName:spike,size:[0.3],next:0,anim:0},
+			
+	],
+}

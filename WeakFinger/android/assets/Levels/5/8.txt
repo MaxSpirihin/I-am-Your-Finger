@@ -1,0 +1,28 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"0098000FF",
+	extraTime:0.3,
+	monstersInfo:
+	[
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+	
+		{mode:[500,700,20,150],id:15,time:6,backgroundName:gun,size:[0.4, 0.8, 0.67, 1, 0.1,0.2],next:0,anim:0},
+		
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		
+		{mode:[1000,700,150,400],id:14,time:6,backgroundName:tank,size:[0.3, 0.6, 0.1, 0.2],next:0,anim:0},
+		
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		{mode:[-1,30,50,-1,1,3000],id:7,time:1.2,backgroundName:grenade,size:[0.2,0.1],next:0,anim:0},
+		
+		
+	],
+}

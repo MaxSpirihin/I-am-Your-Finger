@@ -1,0 +1,35 @@
+{
+	currentMonster:0,
+	backgroundIndex:6,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	extraTime:0.5,
+	monstersInfo:
+	[
+		{mode:[-1],id:2,time:1.2,backgroundName:white_long,size:[0.1,0.25],next:0.5},
+		{mode:[-1],id:2,time:1.2,backgroundName:white_long,size:[0.1,0.25],next:0.5},
+		{mode:[-1],id:2,time:1.2,backgroundName:white_long,size:[0.1,0.25],next:0.5},
+		{mode:[-1],id:2,time:1.2,backgroundName:white_long,size:[0.1,0.25],next:0.5},
+		{mode:[-1],id:2,time:1.2,backgroundName:white_long,size:[0.1,0.25],next:0},
+		
+		{mode:[1],id:3,time:2.5,backgroundName:white_circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:2.5,backgroundName:white_circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:2.5,backgroundName:white_circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:2.5,backgroundName:white_circle,size:[0.15],next:0},
+		
+		{mode:[0,4,1,800],id:4,time:1.8,backgroundName:white_triangle,size:[0.1],next:0},
+		{mode:[0,4,1,800],id:4,time:1.8,backgroundName:white_triangle,size:[0.1],next:0},
+		{mode:[0,4,1,800],id:4,time:1.8,backgroundName:white_triangle,size:[0.1],next:0},
+		
+	
+	
+
+		
+		
+		
+		
+	
+		
+		
+	],
+}

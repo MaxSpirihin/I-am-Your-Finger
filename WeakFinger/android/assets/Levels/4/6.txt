@@ -1,0 +1,39 @@
+{
+	currentMonster:0,
+	backgroundIndex:4,
+	backgroundMoveTime:0.4,
+	textColor:"00FFFFFF",
+	extraTime:1,
+	monstersInfo:
+	[
+	
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		{mode:[2,-1],id:12,time:1,backgroundName:race,size:[0.3, 0.6],next:0.7,anim:0},
+		
+		
+	],
+}

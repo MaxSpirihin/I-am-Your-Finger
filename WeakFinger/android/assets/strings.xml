@@ -1,0 +1,1518 @@
+<?xml version="1.0"?>
+<langs>
+
+    <lang key="en" >
+        
+        <string key="app_name" >I am Your Finger
+        </string>
+        
+        <string key="version" >Version 1.00
+         </string>
+         
+        <string key="release_date" >Release Date 15.02.2015
+         </string>
+         
+        <string key="rate_game" >Rate the game
+         </string>
+         
+         <string key="developed_by" >Developed by
+             Maxim Spirikhin:
+         </string>
+         
+         <string key="vk" >vk.com/maaaks777
+         </string>
+         
+         <string key="mail" >maaaks777@mail.ru
+         </string>
+         
+          <string key="help" >Assisted in development
+              Dmitry Spirikhin
+              Dmitry Rumiantsev
+         </string>
+         
+           <string key="last_projects" >My Past Projects
+         </string>
+         
+           <string key="year" >2015
+         </string>
+         
+          <string key="about_author" >Spirikhin Maxim - 2nd year student of NRNU Mephi (Russia), developer of mobile applications for Android, game developer.
+         </string>
+         
+          <string key="from_author" >"Thanks for purchase. This game is my first really serious project. I started to get involved in programming only 1.5 years ago and  "I am Your Finger" is my reason for pride at the moment. Before that I had a few small projects, this game was in development more than half of year. I was making game alone, it was not easy, but I could. I have very ambitious plans to develop games for the PC now. I hope you have enjoyed my game. Please rate it and write a review (link above). " </string>
+        <string key="good_job" >Congratulations!
+        </string>
+        
+        <string key="good_job_text1" >World
+        </string>
+        
+        <string key="good_job_text2">has opened in arcade mode.  New content are available in menu "Extra".  
+        </string>
+        
+        <string key="play_to_open">Play campaign to open.  
+        </string>
+        
+
+        <string key="hold_on" >Hold On
+        </string>
+
+        <string key="finger_dead" >Finger Is Dead
+        </string>
+
+        <string key="finger_lost" >Finger Is Lost
+        </string>
+
+        <string key="press" >Press and hold
+        </string>
+
+        <string key="level_complete" >Level Complete
+       </string>
+
+        <string key="loading" >Loading
+        </string>
+
+        <string key="campaign" >Campaign
+      </string>
+
+        <string key="arcade" >Arcade
+       </string>
+
+        <string key="options" >Options
+     </string>
+
+        <string key="extra" >Extra
+      </string>
+
+        <string key="hit_him" >Attack him
+     </string>
+        
+        <string key="score" >Score 
+     </string>
+     
+         <string key="record" >Best result 
+   		</string>
+   		
+         <string key="main_record" >General best result 
+   		</string>
+        
+          <string key="music" >Music 
+   		</string>
+   		
+           <string key="vibro" >Vibro 
+   		</string>
+   		
+            <string key="clear_records" >Clear records
+   		</string>
+   		
+           <string key="clear_all" >Clear progress 
+   		</string>
+   		
+           <string key="are_you_sure" >Are you sure? 
+   		</string>
+   		
+           <string key="clear_records_info" >This action will reset all records in arcade mode
+   		</string>
+   		
+            <string key="clear_all_info" >This action will reset all game progress.
+   		</string>
+   		
+           <string key="arts" >Arts
+   		</string>
+   		
+           <string key="facts" >Interesting facts
+   		</string>
+   		
+           <string key="music" >Music
+   		</string>
+   		
+           <string key="authors" >Authors
+   		</string>
+   		
+             <string key="final" >Final Battle
+   		</string>
+   		
+             <string key="before_explosion" >Before Explosion
+   		</string>
+   		
+             <string key="disabled" >disabled
+   		</string>
+   		
+             <string key="titr" >Developed by 
+                  Spirikhin Maxim
+                  2015
+   		</string>
+   		
+             <string key="skip" >Skip
+   		</string>
+   		
+
+        <!-- Worlds Names -->
+
+        <string key="world_1" >Space
+ 		</string>
+   
+           <string key="world_2" >Sky
+   		</string>
+   		
+           <string key="world_3" >Hell
+   		</string>
+   		
+           <string key="world_4" >Chase
+   		</string>
+   		
+           <string key="world_5" >Source Code
+   		</string>
+    
+        
+        <!--  Worlds Description for arcade mode -->
+        <string key="arcade_1">SPACE
+            Asteroids, comets, stardust are flying here. All of them are dangerous.
+            </string>
+            
+        <string key="arcade_2">SKY
+            You're in the sky near a military base. 
+            You are attacked with all the equipment and weapons - 
+            from homing missiles to fighter.
+            </string>
+            
+        <string key="arcade_3">HELL
+            Hell is a terrible, often posthumously place of punishment of sinners.
+            There's a lot of dangers trying to kill you. We should try to save.
+            </string>
+            
+        
+        <string key="arcade_4">CHASE
+            We are on the highway. Traffic is very heavy here.
+            And sometimes tanks and APCs want to destroy us.
+            </string>
+            
+        <string key="arcade_5">SOURCE CODE
+            You're in the virtual world. Beware of all - from the binary code to the virtual aircraft.
+            </string>
+        
+        
+
+        <!-- Bosses names and descriptions -->
+
+        <string key="boss_name_1" >Defender
+     </string>
+     
+         <string key="boss_name_2" >General
+     </string>
+     
+          <string key="boss_name_3" >The Devil
+     </string>
+     
+           <string key="boss_name_4" >Hitler
+     </string>
+     
+           <string key="boss_name_5" >Evil Finger
+     </string>
+
+        <string key="boss_description_1" >DEFENDER
+			He protects the teleporter. You must finish him.
+			Beware of him but as will be the moment, ATTACK!
+       </string>
+       
+        <string key="boss_description_2" >GENERAL
+			He got in Apache. Be careful and try to use his weapons against him.
+        </string>
+        
+        <string key="boss_description_3" >THE DEVIL
+			This is Lucifer - the supreme personification of evil. Hitler will help us to beat him.
+			He will shine with a Cross. As soon as you see the light under me - beat thr Devil.
+        </string>
+        
+         
+          <string key="boss_description_4" >HITLER
+			Hitler captured Moscow.  We must stop him.
+			Fuhrer got into a huge robot. Distract him.
+			The Russian government will help us to deal with him.			
+        </string>
+        
+          <string key="boss_description_5" >EVIL FINGER
+              This evil finger protects Alpha. It is the same as me. However, there is one exception - he can shoot.
+               Is it possible to send his bullets into him?		
+        </string>
+        
+          <string key="boss_description_6" >ALPHA
+              
+              Artificial Intelligence "Alpha" has decided to destroy humanity with nuclear weapons. It must be stopped.
+              Wow, I can shoot. Come on.
+        </string>
+          
+          
+        
+        
+        <string key="boss_win_1" >Mission complete! Enemy is destroyed.
+        </string>
+        
+           <string key="boss_win_2" >Hasta la vista baby
+        </string>
+        
+           <string key="boss_win_3" >-Die, sinners.
+        </string>
+        
+           <string key="boss_win_4">-Hail to Nazi Germany.
+        </string>
+        
+           <string key="boss_win_5">-Nobody will stop Alpha.
+        </string>
+        
+           
+		<string key="boss_win_6">- It is the end of human race. Start the weapons.
+        </string>
+           
+        
+           
+           
+        
+
+        <!-- Levels Description -->
+
+        <string key="1_1" >LET'S BEGIN
+		    So, you have to get me to the teleporter. 
+			Control me, moving across the screen. Be careful. 
+			Asteroids fly here.
+       </string>
+
+        <string key="1_2" >ONE HOLE
+		    Good job! Go on. 
+ 			Stardust are ahead, but you can do it. 
+			Oh, and don't let out me or you will lose contact with me.
+			Probably you've already noticed this.
+        </string>
+
+        <string key="1_3" >HEAP
+		    You're probably interesting where we are? 
+			I have no idea. I was supposed to go on a mission to the Earth
+			but the code of the teleporter was intercepted and I am here.
+        </string>
+
+        <string key="1_4" >IS IT MOVE?
+            You're doing well. So we will reach teleporter soon.
+			I will leave your finger and go to perform the mission.
+       </string>
+
+        <string key="1_5" >THE COMET
+            It is many danger here. All of them are trying to kill me.
+			I think somebody is controlling them.
+			Hope you to protect me.
+       </string>
+
+        <string key="1_6" >MECHANISM
+            Damn, the asteroids ahead are too fast but this mechanism works 
+			predictable. Is's true. Somebody directs them. Move on.
+        </string>
+
+        <string key="1_7" >MEMORIZE
+            Danger ahead. Have you noticed that when I die or disappear you are able to 
+			start again? 
+			Use it and choose the right way.
+        </string>
+
+        <string key="1_8" >FROM ALL SIDES
+            You know, I'm so glad that I can talk to someone.
+			I spent a long time in your finger.
+			You'll get me out of here soon. Generally, don't distract and don't switch off the
+			smartphone.
+        </string>
+
+        <string key="1_9" >WHAT A TRAJECTORY?
+			How much of rubbish is here!
+			Look! New danger. How is it going? 
+			Very interesting.
+        </string>
+
+        <string key="1_10" >LITTLE BIT MORE
+			Did you notice that it became more difficult? We are already close to the teleporter. 
+			Security is more powerful here, but you are able to get through them. 
+			I was lucky to get in your finger.
+        </string>
+
+        <string key="1_11" >BEAUTY
+		Look, they attack mobbed. Looks nice. 
+		Remember my advice -
+		just memorize.
+        </string>
+
+        <string key="1_12" >FINAL PILLAR
+			The teleporter is behind the door. But... 
+			They are all flying to us. 
+			By all means, HOLD !!!
+        </string>
+        
+        
+        
+         <string key = "2_1">ROCKET SALVO
+			General found us and ordered to attack.
+			They do not regret missiles. Be careful.
+		</ string>
+        
+        <string key = "2_2">AVIATION
+			Well, now he ordered the fighters to ram me.
+			Move me quickly, they are large.
+		</ string>
+        
+        <string key = "2_3">BOOM
+			They attack us with bombs. But they have timer. 
+			Follow it. 
+         </ string> 
+        
+        <string key = "2_4">AVIATION 2 
+			I just need to get on their base and to connect the database. But it will not be easy. 
+			General does not regret aviation. 
+         </ string> 
+        
+        <string key="2_5" >SHARDS
+			The Soviet F1 hand grenade, is an anti-personnel fragmentation defensive grenade.
+			Seems like that is it which flies. 
+        </string>
+        
+        <string key="2_6" >AVIATION 3 
+			We have made general very angry. He sends so many planes and helicopters to destroy the finger.
+			What a nonsense?
+        </string>
+        
+        <string key="2_7" >BANG, BANG and... BANG
+			Sorry for making you messing with me, but I can't leave your finger, 
+			and our mission is very important. 
+        </string>
+        
+        <string key="2_8" >SELF-DIRECTION
+			 They use the homing missiles. I thought this won't happen. 
+        </string>
+        
+        <string key="2_9" >TARGET - FINGER
+			 I've connected to the Wikipedia.
+			 Missile guidance refers to a variety of methods of guiding a missile or a guided bomb to its intended target.
+        </string>
+        
+        <string key="2_10" >SPOILER
+			Is the information hunted by me so important? 
+			You can just turn off your smartphone. But you do not. 
+			You are very interested what is there, aren't you? 
+        </string>
+        
+        <string key = "2_11"> GETTING CLOSE!!!
+			The general's base is visible at the horizon.
+			Surprised that we were able to get so far.
+			Finally, I'm just a finger.
+		</ string>
+        
+        <string key = "2_12"> ALL POWER TO BATTLE !!! 
+			He sent into combat all forces. We won't get through. 
+			But I've reconfigured the teleporter and now I'm bigger. 
+         </ string>
+
+
+		<string key="3_1" >HELL? ARE YOU SERIOUS?
+			 Oh, Well. We are in hell. Everything around was created to kill.
+			So we have to contrive somehow.
+        </string>
+        
+        
+        <string key="3_2" >SPIKES
+			Dangerous traps are ahead. Spikes hit from the ground. 
+			 Hitler will help us by highlighting the safe zones.
+        </string>
+        
+        <string key="3_3" >DEVILS
+			 Hell is protected by minions of Lucifer - devils - terrible, huge, flying, vile creatures
+			They are coming. Be careful.
+        </string>
+        
+        
+        <string key="3_4" >MEMORIZE AGAIN
+			Be careful. Spikes are ahead again.And they became more more dangerous. Memorize, again.
+        </string>
+        
+        
+         <string key="3_5" >LAVA
+			 You’re probably waiting for lava. So, it's here.
+        </string>
+        
+         
+          <string key="3_6" >SWORDS, CHAINS, AXES
+			 The Hell is the terrible, often posthumous place to punish sinners.
+			There is a great numbers of ways to kill here. Just look.
+        </string>
+        
+          
+          <string key="3_7" >718 DEGREES CELSIUS
+			This is the hell temperature which was calculated by scientists who compared Quotes from the Bible.
+			That guys were right. It's unbearable here.
+        </string>
+        
+          
+          
+          <string key="3_8" >DEMONS
+              Devil knew that we're coming for him. He sent a swarm of demons to repel us.
+              But Hitler will help us. He will light. Stay on the light and we'll be safe.        </string>
+        
+          
+        
+        <string key="3_9" >TO SATAN
+			  Satan, Devil, Lucifer is the main opponent of the heavenly powers, 
+			   highest personification of evil and the one who pushes the person on the path of spiritual death.
+			  He is the one we're coming to kill.
+        </string>
+        
+        
+        <string key="3_10" > DENSE ATTACK
+            We're lucky to meet Hitler. Cute man.
+            Helps us without any intent.
+        </string>
+        
+        
+        <string key="3_11" >DEVIL IS CLOSE
+            Have you already thought how we will strike the Satan? Don't care about it.
+            Hitler told he got a plan.
+        </string>
+		        
+        
+        
+        <string key="3_12" >HELL’S GATES
+              We got very close to the Lucifer's lair. It's protected by demons. 
+              Act according to the scheme. After that we'll kill the devil and leave the hell through the gates.        </string>
+
+        
+        
+ 			 <string key="4_1" >FOLLOWING HITLER
+			We are guilty of the Hitler's rising. He goes to Germany. We must stop him. Go on the road        
+			</string>
+        
+        
+        <string key="4_2" > JUNGLE
+              We must go through jungle. It would be quicker. Be careful. Fruits are flying there.
+              I'll try to connect to internet.
+        </string>
+        
+        
+        
+        <string key="4_3" > TIGER AND MONKEY
+              Look, the tiger is ahead. And the monkey spitting shit.
+              They're so funny.
+        </string>
+        
+        
+         <string key="4_4" > TRAFFIC JAM ON THE BRIDGE
+             Go on the bridge. I've connected to the network. Bad news:
+             "Hitler has got to Germany and has zombied all the population of the country.
+             They're going to war".
+        </string>
+        
+         
+         
+          <string key="4_5" >UNDER WATER
+              Bridge was unstable. We are under water. Hm, news write, that Germany wear the Nazi form and listens resurrected Hitler
+.
+        </string>
+        
+          
+          <string key="4_6" >RACE
+             
+             Nice. We got out. On the road again. There are street racing. Many cool cars are here.
+             By the way, the army of Hitler flew from Germany.
+        </string>
+        
+          
+          
+          <string key="4_7" > SNOW, SNOW, SNOW…
+             Hitler's troops fly to Russia, to Moscow. We should go there too. We will pass a snowy mountain and get on the highway. 
+        </string>
+        
+          
+          <string key="4_8" >HIGHWAY
+             So, we are on the highway to Moscow. Fresh news – Hitler with a huge army landed in Moscow.
+             They are capturing the city. Russian army wasn't ready for it.
+        </string>
+        
+          
+          <string key="4_9" > NAZI TROOPS IN MOSCOW
+             We are in Moscow. Nazis occupied everything here. Be careful. They attack.
+        </string>
+        
+          
+          <string key="4_10" >HUMMER
+             Hitler sent a wild hummer to kill us. Beware of him. 
+             Meanwhile, fuhrer occupied the Red Square and Kremlin.
+        </string>
+        
+          
+          <string key="4_11" >TANKS
+             Coming to the Red Square. We should save the Kremlin. Nazi tanks are ahead.
+        </string>
+        
+          
+          <string key="4_12" >RED SQUARE
+             We are on the Red Square. Hitler sent a lot of fighting machines to us. Hold on. We must stop him.
+        </string>
+        
+          <string key="5_1" > BINARY CODE
+            A binary code represents text or computer processor instructions using the binary number system's two binary digits, 0 and 1.            
+	We are inside the system. Look for Alpha.
+        </string>
+        
+        <string key="5_2" > PIXELS
+            Pixel is a physical point in a raster image, or the smallest addressable element in an all points addressable display device.           
+Beware of them.
+        </string>
+        
+        <string key="5_3" > VIRTUAL WAR
+            We are attacked by the virtual military equipment.
+            It is not less dangerous than the real one.
+        </string>
+        
+        <string key="5_4" >THE MATRIX
+            Matrix - is a rectangular table of numbers. What is this? I don't know, those words is staying in my head.
+        </string>
+        
+        <string key="5_5" > ABSTRACTION
+            Everything that's going on here is Alpha's protective mechanism. Something like that they pop in games to deny pirates to
+             get an illegal copy. Well, it can't protect a game, so won't protect Alpha too.
+        </string>
+        
+        <string key="5_6" >VIRTUAL ROAD
+            Alpha connect to my database and built a virtual reality based on my memories.
+             That is why we are going through situations that have been exposed
+.
+        </string>
+        
+         <string key="5_7" >JAVA?
+             Shit. Look here. Alpha was written on Java. An excellent argument against the supporters of C ++ in a dispute about the best programming language
+              "Artificial intelligence, which took the world, written in Java. And low speed did not prevent him to put humanity on his knees!!!"
+        </string>
+        
+         
+         <string key="5_8" >VIRTUAL WAR 2
+             Now Alpha is getting access to the systems of control of nuclear missiles around the world.
+              If we don't stop it, the end of humanity will appear
+         </string>
+        
+         
+         <string key="5_9" >FIREWALL
+             Alpha sent an angry Firewall on me - is a network security system that controls the incoming and outgoing network traffic based on an applied rule set.
+             Why it seems like a face? Is Alpha coping his skin?
+         </string>
+          
+         <string key="5_10" >VIRTUAL HELL
+  			 Do you remember our adventures in the hell? Alpha has created it here one more time. 
+           	 Btw, why he is "Alpha"? This is such a commonplace name for AI. I prefer the name ... hm... well, nice name.            </string>
+          
+           <string key="5_11" >LOADING
+               Well, I have installed the virus to find Alpha. But it had had taken a long time. 
+         </string> 
+         
+           <string key="5_12" > PROTECTED CODE
+              I have found Alpha. But he is better protected than I thought. This is the last frontier. HOLD !!!!
+         </string> 
+         
+           <string key="extra_level" >KILL ME
+                 The script to destruct the Earth is in me. The unique chance to save the planet - to kill me. Substitute beneath all that fly and kill me quickly.
+                  One minute before the boom!
+.
+         </string>
+
+
+  		<string key="extra_lose" >The Earth was destroyed.
+        	 </string>
+        	 
+  		
+  		<!-- Facts -->
+  		<string key="fact_0">1. WEAK FINGER
+First name of the game was "Weak Finger".
+Author has made a mistake and has written "Week Finger".
+As a result, the project of the game has saved this name.</string>
+<string key="fact_1">2. ENGINE
+The game was developed on the java language using the Eclipse development environment and framework libgdx.</string>
+
+
+<string key="fact_2">3. ABOUT FIRST WORLD
+First world was redrawn 2 times. At first it was a demo version with flying squares and lines.
+Then they were replaced by little more beautiful abstract figures, and the world was called "abstract world."
+Later it was decided to move it into “space” because graphics of the world was worse than other worlds.</string>
+<string key="fact_3">4. TIME OF DEVELOPMENT
+The game was in development 6 months because Maxim Spirikhin (author of the game) was developing it
+alone, in his spare time, parallel he was studying at the university and working part-time as a programmer.</string>
+
+
+
+
+<string key="fact_4">5. HISTORY OF AUTHOR
+Developer started programming a year before the beginning of development of this game.
+The path - Pascal (completely), C++ (bases of PLO), C#, Java, Android-programming, libgdx ...</string> 
+<string key="fact_5">6. ABOUT IDEA OF THE GAME
+"The idea came to me almost immediately when I was thinking about what the game could be made for smartphones.
+It must use touch controls, there should be nothing superfluous.
+You need to move your finger across the screen and to dodge from everything that flies."- author. </string>
+
+
+<string key="fact_6">7. STATISTICS
+Time of development - 6 months
+Clean work - 1 month
+Written lines of codes - 16000
+Performance - 536 lines per day.
+These data are estimates and do not account time for the creation of graphics and levels.</string> 
+<string key="fact_7">8. GRAPHICS
+The author was creating the graphics alone (apart from a couple of objects).
+Almost all the images and backgrounds were taken from the internet and processed.
+Textures were not drawn by hand.</string>
+
+
+<string key="fact_8">9. ABOUT 4th WORLD
+It was planned 2 worlds - jungle and road.
+However, the gameplay ideas were not enough, so they merged into one world - the chase.</string> 
+<string key="fact_9">10. ABOUT DEVIL AND HITLER
+At the beginning of development, it was decided that one of the worlds would become hell with the boss Devil.
+When plot was developing Hitler was introduced, which eventually became an opponent even more serious than the Devil.</string> 
+
+
+
+<string key="fact_10">11. ABOUT 5th WORLD
+There aren’t new gameplay elements in the "source code" world. It combines all the enemies of the previous ones. </string> 
+<string key="fact_11">12. FIRST VERSION OF THE PLOT
+The initial sketch of the plot -
+"The protagonist of the game - your finger. He says that he is alive and able to talk, and this game allows him to communicate with you.
+He says that "finger-villain" stole "the princess-finger" (!!!change it).
+To find a finger-villain your finger (Oh, many fingers :) should go through all the worlds, and your phone is a teleporter to them.
+On each level you have to dodge and wait till teleporters reboot"
+</string>
+
+
+
+<string key="fact_12">13. ALTERNATIVE ENDING
+For a long time the author wanted to announce that your finger is actually the villain at the end.
+This would be the reason of the level with his destruction. However, this change could not be combined with the rest of the plot,
+Therefore, the author refused it.</string>
+<string key="fact_13">14. SEQUEL
+The seques will never come, but there is the ideas for it -
+1. The game is called "We are Your Fingers"
+2. There are 2 character in the game - the game for them is different. For the first finger gameplay is such as in this part. The second one is able to shoot (as in battle with Alpha).
+3. Map levels are non-linear now.
+4. The plot will be even more crazy, it will meet aliens, doomsday and time travel.
+
+But this is only a thought. Development will be started only in case of a big commercial success of this part.</string>
+           
+          
+        
+    
+    
+    
+    
+    
+    <!-- Music descriptions -->
+        <string key="music_0">LUDWIG VAN BEETHOVEN -
+             MOONLIGHT SONATA
+            
+            (Мenu)
+           	</string>
+        
+        <string key="music_1">PYOTR TCHAIKOVSKY -
+             JUNE (BARCAROLLE)
+            
+             (Space)
+		</string>
+		
+        <string key="music_2">ANTONIO VIVALDI -
+             STORM
+            
+             (Sky)
+		</string>
+		
+         <string key="music_3">EJ YERICK -
+             RACK VREMENYI
+             
+             (Hell)
+		</string>
+   
+         <string key="music_4">RONDO VENEZIANO - 
+             ODISSEA VENEZIANA
+             
+             (Chase)
+		</string>
+		
+         <string key="music_5">MAKSIM MRVICA - 
+             CROATIAN RHAPSODY
+             
+             (Source Code)
+		</string>
+		
+         <string key="music_6"> ULYTAU - 
+             TOCCATA AND FUGUE
+             
+             (Boss)
+		</string>
+		
+           <string key="music_7">ESCALA - 
+             PALLADIO
+             
+             (Final)
+		</string>
+    
+    
+    
+    
+    
+    
+    </lang>
+
+    
+    
+    
+    
+    
+    <lang key="ru" >
+        
+        
+        <string key="rate_game" >Оценить игру
+         </string>
+         
+         <string key="developed_by" >Разработчик
+             Спирихин Максим
+         </string>
+         
+         
+          <string key="help" >С разработкой помогали
+              Спирихин Дмитрий
+              Румянцев Дмитрий
+         </string>
+         
+           <string key="last_projects" >Мои прошлые проекты
+         </string>
+         
+           <string key="year" >2015
+         </string>
+         
+          <string key="about_author" >Спирихин Максим - студент 2 курса НИЯУ МИФИ, разработчик мобильных приложений под Android, разработчик игр.
+         </string> 
+         
+          <string key="from_author" >"Спасибо за покупку. Эта игра - мой первый по-настоящему серьезный проект. Я начал увлекаться программированием лишь 1.5 года назад и "I am Your Finger" на данный момент мой повод для гордости. До этого у меня было несколько мелких проектов, этой же игре я посвятил не один месяц. В одиночку это было не легко, но я справился. Теперь у меня в планах разработка очень амбициозной игры для ПК. Я надеюсь, вы получили удовольствие от моей игры. Оцените ее и оставьте отзыв (ссылка наверху)."</string>
+        
+           <string key="good_job" >Поздравляем!
+        </string>
+        
+        <string key="good_job_text1" >Мир
+        </string>
+        
+        <string key="good_job_text2">открыт в режиме аркады.  В меню "Другое" доступны новые материалы.  
+        </string>
+        
+         <string key="play_to_open">Играйте кампанию, чтобы открыть.  
+        </string>
+        
+        
+        
+
+        <string key="hold_on" >Держись
+        </string>
+
+        <string key="finger_dead" >Палец мертв
+        </string>
+
+        <string key="finger_lost" >Палец потерян
+       </string>
+
+        <string key="press" >Жми и не отпускай
+      </string>
+
+        <string key="level_complete" >Уровень пройден
+        </string>
+
+        <string key="loading" >Загрузка
+       </string>
+
+        <string key="campaign" >Кампания
+        </string>
+
+        <string key="arcade" >Аркада
+        </string>
+
+        <string key="options" >Настройки
+        </string>
+
+        <string key="extra" >Другое
+        </string>
+
+        <string key="hit_him" >Бей его
+        </string>
+        
+         <string key="score" >Результат
+   		</string>
+   		
+         <string key="record" >Рекорд
+   		</string>
+   		
+         <string key="main_record" >Общий рекорд 
+   		</string>
+        
+         <string key="music" >Музыка
+   		</string>
+   		
+          <string key="vibro" >Вибрация 
+   		</string>
+   		
+           <string key="clear_records" >Сбросить рекорды
+   		</string>
+   		
+           <string key="clear_all" >Сбросить прогресс 
+   		</string>
+   		
+               <string key="are_you_sure" >Вы уверены?
+   		</string>
+   		
+           <string key="clear_records_info" >Данное действие сбросит все рекорды в аркадном режиме
+   		</string>
+   		
+           <string key="clear_all_info" >Данное действие сбросит весь игровой прогресс.
+   		</string>
+   		
+           <string key="arts" >Арты
+   		</string>
+   		
+           <string key="facts" >Интересные факты
+   		</string>
+   		
+           <string key="music" >Музыка
+   		</string>
+   		
+           <string key="authors" >Авторы
+   		</string>
+   		
+           <string key="final" >Последняя схватка
+   		</string>
+   		
+            <string key="before_explosion" >До взрыва
+   		</string>
+   		
+              <string key="disabled" >отключено
+   		</string>
+   		
+              <string key="titr" >Разработчик - 
+                  Спирихин Максим
+                  2015г.
+   		</string>
+   		
+               <string key="skip" >Пропустить
+   		</string>
+           
+
+           
+           
+           
+           
+        <!-- Worlds Names -->
+
+        <string key="world_1" >Космос
+        </string>
+	
+    	<string key="world_2" >Небеса
+    		</string>    
+    		
+    	<string key="world_3" >Ад
+    		</string>
+    		
+    	<string key="world_4" >Погоня
+    		</string>
+    		
+    	<string key="world_5" >Исходный код
+    		</string>
+        
+        
+        <!-- Bosses names and descriptions -->
+
+        <string key="boss_name_1" >Охранник
+        </string>
+        
+        <string key="boss_name_2" >Генерал
+        </string>
+        
+        <string key="boss_name_3" >Дьявол
+        </string>
+        
+        <string key="boss_name_4" >Гитлер
+        </string>
+        
+         <string key="boss_name_5" >Злой палец
+        </string>
+
+        <string key="boss_description_1" >ОХРАННИК
+			Он охраняет телепортатор. Придется с ним расправиться.
+			Остерегайся его, но, как будет момент, АТАКУЙ!
+        </string>
+        
+         <string key="boss_description_2" >ГЕНЕРАЛ
+			Он сел в Apache. Будь осторожен и постарайся использовать его оружие против него.
+        </string>
+        
+         <string key="boss_description_3" >ДЬЯВОЛ
+			Это Люцифер - высшее олицетворение зла. Гитлер поможет нам победить его.
+			Он будет светить крестом. Как только увидешь под мной свет - бей его.
+        </string>
+        
+         
+          <string key="boss_description_4" >ГИТЛЕР
+			Гитлер захватил Москву. Надо его остановить.
+			Фюрер сел в огромного робота. Отвлекай его.
+			Правительство России поможет расправиться с ним.			
+        </string>
+        
+          <string key="boss_description_5" >ЗЛОЙ ПАЛЕЦ
+              Этот злой палец защищает Альфу. Он такой же, как и я. За одним исключением - он умеет стрелять.
+              Нельзя ли направить его пули в него.		
+        </string>
+        
+          
+          <string key="boss_description_6" >АЛЬФА
+              
+              Искусственный интеллект "Альфа" решил уничтожить человечество ядерным оружием. Его надо остановить.
+              Я наконец-то умею стрелять. Вперед.
+        </string>
+        
+          <string key="boss_win_1" >-Миссия выполнена! Враг уничтожен.
+        </string>
+        
+           <string key="boss_win_2" >-Hasta la vista baby
+        </string>
+        
+           <string key="boss_win_3" >-Умрите, грешники.
+        </string>
+        
+           <string key="boss_win_4">-Да здравствует Нацистская Германия.
+        </string>
+        
+            <string key="boss_win_5">-Теперь никто не помешает Альфе.
+        </string>
+        
+              <string key="boss_win_6">-Прощай, человечество. Запустить оружие.
+        </string>
+        
+        
+        
+         <!--  Worlds Description for arcade mode -->
+        <string key="arcade_1">КОСМОС
+            Астероиды, кометы, звездная пыль - все это летает здесь и представляет огромную опасность.
+            </string>
+            
+        <string key="arcade_2">НЕБЕСА
+            Ты в небе около военной базы. Тебя атакуют, используя всю технику и вооружение - 
+            от самонаводящихся ракет до истребителей
+            </string>
+            
+        
+        <string key="arcade_3">АД
+            Ад - ужасное, чаще посмертное, место наказания грешников.
+            Здесь куча опасностей, стремящихся убить тебя. Надо спасаться.
+            </string>
+            
+        
+        <string key="arcade_4">ПОГОНЯ
+            Мы на шоссе. Здесь очень плотное движение.
+            А иногда танки и БТРы хотят нас уничтожить.
+            </string>
+            
+        
+        <string key="arcade_5">ИСХОДНЫЙ КОД
+            Ты в виртуальном мире. Берегись всего - от двоичного кода до виртуальных самолетов.
+            </string>
+        
+        
+        
+        
+
+        <!-- Levels Description -->
+
+        <string key="1_1" >НАЧНЕМ
+			Итак, тебе нужно доставить меня к телепортатору.
+			Управляй мной, двигая по экрану. Будь осторожен.
+			Здесь летают астероиды.
+
+        </string>
+
+        <string key="1_2" >В ДЫРКУ
+			Молодец! Двигаемся дальше. Впереди
+			звездная пыль, но ты справишься.
+			Ах да, не вздумай отпустить меня, иначе ты потеряешь связь со мной. Наверное, ты уже сам
+			заметил.
+
+        </string>
+
+        <string key="1_3" >КУЧА
+			Тебе, наверное, интересно, где мы?
+			Понятия не имею. Я должен был отправиться на задание на Земле,
+			но код телепортатора перехватили, и вот, я здесь.
+
+
+        </string>
+
+        <string key="1_4" >ОНА ДВИЖЕТСЯ?
+			Ты отлично справляешься, скоро мы доберемся до телепортатора,
+			я покину твой палец и отправлюсь выполнять задание. 
+        </string>
+
+        
+        <string key="1_5" >КОМЕТА
+			Сколько же здесь опасностей. Все это стремится убить меня.
+			Думаю кто-то управляет этими камнями и прочим. 
+			Ты должен провести меня.
+        </string>
+
+        
+        <string key="1_6" >МЕХАНИЗМ
+			Черт, камни впереди слишком быстрые, но этот механизм работает
+			предсказуемо. Их правда кто-то направляет. Вперед.
+
+        </string>
+
+        <string key="1_7" >ЗАПОМНИ
+			Впереди опасно, ты уже заметил, что когда я погибаю или исчезаю, ты можешь
+			начать заново?
+			Используй это и выбери верный путь.
+
+        </string>
+
+        <string key="1_8" >СО ВСЕХ СТОРОН
+			Знаешь, я так рад, что могу с кем-то поговорить.
+			Я уже давно торчу в твоем пальце.
+			Скоро ты вытащищь меня отсюда. Главное, не отвлекайся и не отключай
+			смартфон.
+
+        </string>
+
+        <string key="1_9" >ЧТО ЗА ТРАЕКТОРИЯ?
+			Да сколько же здесь всякой дряни.
+			Смотри, там незнакомая опасность, как эта штука движется?
+			Очень интересно.
+
+        </string>
+
+        <string key="1_10" >ЕЩЕ ЧУТЬ-ЧУТЬ
+			Заметил, что стало сложнее? Мы уже близко к телепортатору.
+			Охрана здесь мощнее, но ты справишься.
+			Мне повезло, что я нахожусь именно в твоем пальце.
+
+        </string>
+
+        <string key="1_11" >КРАСОТА
+			Смотри, они нападают толпой. Смотрится красиво, но нас так не возьмешь.
+			Помнишь мой совет - ЗАПОМИНАЙ.
+
+        </string>
+
+        <string key="1_12" >ПОСЛЕДНИЙ СТОЛП
+			Телепортатор за дверью. Но...
+			Нас атакуют по полной.
+			Во что бы то ни стало, ДЕРЖИСЬ!!!
+        </string>
+        
+        <string key="2_1" >РАКЕТНЫЙ ЗАЛП
+			Генерал спалил нас и велел атаковать. 
+			Ракет они не жалеют. Будь осторожен.
+        </string>
+        
+        <string key="2_2" >ТЕХНИКА
+			Что ж, теперь он приказал истребителям таранить меня.
+			Двигай мною быстро, они большие.
+        </string>
+        
+        <string key="2_3" >БА-БАХ
+			Они атакуют нас бомбами. Но на них таймер. 
+			Следи за ним.
+        </string>
+        
+        <string key="2_4" >ТЕХНИКА 2
+			Мне лишь нужно попасть на их базу и подключиться к базе данных. Но это будет непросто.
+			Воздушной техники генерал не жалеет.
+        </string>
+        
+        <string key="2_5" >ОСКОЛКИ
+			Ф-1 — ручная противопехотная оборонительная граната. 
+			Предназначена для поражения живой силы в оборонительном бою.
+			Вроде это она летит.
+        </string>
+        
+        <string key="2_6" >ТЕХНИКА 3
+			Мы конкретно разозлили генерала. Он отправляет столько самолетов и вертолетов, чтобы уничтожить палец. 
+			Что за бред?
+        </string>
+        
+        <string key="2_7" >ВЗРЫВЫ, ВЗРЫВЫ И.. ВЗРЫВЫ
+			Прости, что заставляю возиться со мной, но мне не покинуть твой палец, 
+			а наша миссия очень важна.
+        </string>
+        
+        <string key="2_8" >САМОНАВЕДЕНИЕ!!!
+			 Они используют самонаводящиеся ракеты. Думал до этого не дойдет.
+        </string>
+        
+        <string key="2_9" >ЦЕЛЬ - ПАЛЕЦ!!!
+			 Я подключиля к википедии.
+			 Система самонаведения - совокупность устройств, предназначенных для автономного вывода метательного снаряда на цель и минимизации отклонения от неё без участия экипажа или внешних средств управления.
+        </string>
+        
+        <string key="2_10" >ПОМЕХА
+			 Неужели информация, за которой я охочусь так важна?
+			 Ты же можешь просто отключить смартфон. Но ты этого не сделаешь.
+			 Тебе самому интересно, что там, не так ли?
+        </string>
+        
+        <string key="2_11" >УЖЕ БЛИЗКО!!!
+			 На горизонте уже видна база генерала.
+			 Удивлен, что мы смогли добраться так далеко. 
+			 В конце концов, я же просто палец.
+        </string>
+        
+        <string key="2_12" >ВСЕ СИЛЫ В БОЙ!!!
+			 Он отправил в бой все силы. Нам не пройти.
+			 Но я перенастроил телепортатор и теперь я больше, заметь.
+        </string>
+        
+        
+        <string key="3_1" >АД? СЕРЬЕЗНО?
+			 Ну что же. Мы в аду. Все, что здесь есть, создано для того, чтобы убивать.
+			 Так что придется изловчиться.
+        </string>
+        
+        
+        <string key="3_2" >ШИПЫ
+			 Впереди опасные ловушки. Шипы бьют из-под земли. 
+			 Гитлер поможет нам и подсветит безопасные зоны.
+        </string>
+        
+        <string key="3_3" >ЧЕРТИ
+			 Ад защищают приспешники Люцифера - черти - страшные, огромные, летающие, мерзкие создания.
+			 Они летят сюда. Берегись.
+        </string>
+        
+        
+        <string key="3_4" >СНОВА ЗАПОМНИ
+			 Будь аккуратен. Впереди вновь шипы. И они опаснее. Запоминай, снова.
+        </string>
+        
+        
+         <string key="3_5" >ЛАВА
+			 Ты наверное все думал, когда же появится лава. Что ж, вот она.
+        </string>
+        
+         
+          <string key="3_6" >МЕЧИ, ЦЕПИ, ТОПОРЫ
+			 Ад - ужасное, чаще посмертное, место наказания грешников. 
+			 Способов умерщвления здесь огромное количество. Сам посмотри.
+        </string>
+        
+          
+          <string key="3_7" >718 ГРАДУСОВ ПО ЦЕЛЬСИЮ
+			 Это температура ада, вычисленная учеными на основании сопоставления цитат из Библии.
+			 Эти чуваки были правы. Здесь невыносимо жарко.
+        </string>
+        
+          
+          
+          <string key="3_8" >ДЕМОНЫ
+              Дьявол узнал, что мы идем за ним. Он послал рой демонов отгонять нас.
+              Но Гитлер поможет нам. Он будет светить крестом. Держись света и будем в безопасности.
+        </string>
+        
+          
+        
+        <string key="3_9" >К САТАНЕ
+			  Сатана, Дьявол, Люцифер - главный противник небесных сил, 
+			  представляющий собой высшее олицетворение зла и толкающий человека на путь духовной гибели.
+			  Вот кого мы идем убивать.
+        </string>
+        
+        
+        <string key="3_10" >ПЛОТНАЯ АТАКА
+            Нам повезло, что встретили Гитлера, да? Милый человек.
+            Помогает нам без всякого злого умысла.
+        </string>
+        
+        
+        <string key="3_11" >ДЬЯВОЛ РЯДОМ
+            Ты уже думал, как будем мочить Сатану? Не волнуйся об этом.
+            Гитлер сказал, что у него есть план.
+        </string>
+		        
+        
+        
+        <string key="3_12" >ВРАТА АДА
+              Мы вплотную подобрались к логову Люцифера. Его защищают демоны. 
+              Действуем по схеме. После этого убьем Дьявола и уйдем через врата ада.
+        </string>
+        
+        
+        <string key="4_1" >ЗА ГИТЛЕРОМ
+              Мы виновны в том, что Гитлер воскрес. Он направляется к Германии. Надо его остановить. Отправимся по дороге
+        </string>
+        
+        
+        <string key="4_2" >ДЖУНГЛИ
+              Нужно пройти через джунгли. Так будет быстрее. Будь осторожен. Здесь летают фрукты.
+              Я постараюсь подключиться к интернету.
+        </string>
+        
+        
+        
+        <string key="4_3" >ТИГР И ОБЕЗЬЯНА
+              Смотри, впереди тигр. И обезьяна, плюющаяся какашками.
+              Они такие забавные.
+        </string>
+        
+        
+         <string key="4_4" >ПРОБКА НА МОСТУ
+             Давай по мосту. Я подключился к сети. Новости плохие:
+             Гитлер добрался до Германии и зомбировал все население.
+             Они собираются на войну.
+        </string>
+        
+         
+         
+          <string key="4_5" >ПОД ВОДОЙ
+              Мост оказался неустойчив. Мы под водой. Так, в новостях пишут, что вся германия надела 
+             нацисткую форму и слушает воскресшего Гитлера.
+        </string>
+        
+          
+          <string key="4_6" >ГОНКА
+             
+             Отлично. Мы выбрались. Вновь по дороге. Здесь проходят уличные гонки. Куча крутых машин.
+             Ах да, войско Гитлера вылетело из Германии.
+        </string>
+        
+          
+          
+          <string key="4_7" >СНЕГ, СНЕГ, СНЕГ ...
+             Войска Гитлера летят в Россию, к Москве. Надо двигаться туда же. Минуем снежную гору и выйдем на шоссе. 
+        </string>
+        
+          
+          <string key="4_8" >ШОССЕ
+             Так, мы на шоссе на пути в Москву. Свежие новости - Гитлер с огромным войском высадился в Москве.
+             Они захватывают город. Армия России была к такому не готова.
+        </string>
+        
+          
+          <string key="4_9" >НАЦИСТСКИЕ ВОЙСКА В МОСКВЕ
+             Мы в Москве. Здесь все окупировали нацисты. Осторожно. Они атакуют.
+        </string>
+        
+          
+          <string key="4_10" >ХАММЕР
+             Гитлер послал дикий ХАММЕР убить нас. Берегись его. 
+             А тем временем, фюрер уже окупировал красную площадь и кремль.
+        </string>
+        
+          
+          <string key="4_11" >ТАНКИ
+             Движемся к красной площади. Надо спасать кремль. Впереди фашистскте танки.
+        </string>
+        
+          
+          <string key="4_12" >КРАСНАЯ ПЛОЩАДЬ
+             Мы на красной площади. Гитлер бросил на нас кучу техники. Держись. Мы должны остановить его.
+        </string>
+        
+        <string key="5_1" >ДВОИЧНЫЙ КОД
+            Двоичный код - это способ представления данных 
+            в одном разряде в виде комбинации двух знаков, обычно обозначаемых цифрами 0 и 1.
+            Мы внутри системы. Ищем Альфу.
+        </string>
+        
+        <string key="5_2" >ПИКСЕЛИ
+            Пиксель - наименьший логический элемент двумерного цифрового изображения в растровой графике, 
+            или элемент матрицы дисплеев, формирующих изображение.
+            Берегись их.
+        </string>
+        
+        <string key="5_3" >ВИРТУАЛЬНАЯ ВОЙНА
+            Нас атакуют виртуальная военная техника.
+            Она не менее опасна, чем настоящая.
+        </string>
+        
+        <string key="5_4" >МАТРИЦА
+            Матрица - это прямоугольная таблица чисел. К чему это? Не знаю, вот уже давно в голове сидит это слово.
+        </string>
+        
+        <string key="5_5" >АБСТРАКЦИЯ
+            Все, что здесь происходит - это защитный механизм кода Альфы. Что-то подобное суют в игры, чтобы пираты не смогли
+            получить нелицензионную копию. Что ж, им не помогает, не поможет и Альфе.
+        </string>
+        
+        <string key="5_6" >ВИРТУАЛЬНАЯ ДОРОГА
+            Альфа подключился к моей базе данных и выстроил виртуальную реальность на основе моих воспоминаний.
+            Вот почему мы переживаем ситуации, с которыми уже сталкивались.
+        </string>
+        
+         <string key="5_7" >JAVA?
+            Черт. Посмотри на это. Альфа написан на Java. Отличный аргумент против сторонников С++ в споре за лучший язык программирования
+             "Искусственный интеллект, захвативший мир, написан на Java. И низкая скорость не помешала ему поставить человечество на колени!!!"
+        </string>
+        
+         
+         <string key="5_8" >ВИРТУАЛЬНАЯ ВОЙНА 2
+             Альфа сейчас получает доступ к системам управления ядерными ракетами всего мира.
+             Если мы не остановим его, человечеству конец. Не вздумай отключаться.
+         </string>
+        
+         
+         <string key="5_9" >FIREWALL
+             Альфа послал на меня злой Firewall - комплекс аппаратных или программных средств, 
+             осуществляющий контроль и фильтрацию проходящих через него сетевых пакетов в соответствии с заданными правилами.
+             Почему он похож на лицо? Альфа копирует свой образ?
+         </string>
+          
+         <string key="5_10" >ВИТРУАЛЬНЫЙ АД
+             Помнишь наше приключение в аду? Альфа воссоздал его и здесь. 
+           	 Кстати, почему "Альфа"? Это же такое банальное имя для ИИ. Круче было бы... эм... ок, норм. имя.  
+          </string>
+          
+           <string key="5_11" >ЗАГРУЗКА
+               Итак, я установил вирус для поиска Альфы. Но, он ДОЛГО загружается. 
+         </string> 
+         
+           <string key="5_12" >ЗАЩИЩЕННЫЙ КОД
+              Я нашел Альфу. Но он защищен лучше, чем я думал. Это последний рубеж. ДЕРЖИСЬ!!!!
+         </string> 
+         
+           
+             <string key="extra_level" >УБЕЙ МЕНЯ
+                 Во мне скрипт уничтожения человечества. Едиственный шанс спасти Землю - убить меня. Подставляйся подо все, что летит и убей меня быстро. 
+                 До взрыва 1 минута.
+         </string> 
+         
+              <string key="extra_lose" >Земля была уничтожена.
+         </string> 
+        
+        
+        
+        
+        <!-- Interesting Facts -->
+        
+        <string key="fact_0">1. WEAK FINGER
+            Сначала игра называлась "Weak Finger" (Слабый палец),
+            причем автор допустил ошибку и написал "Week Finger" (Неделя палец).
+            В итоге проект разработки игры так и оставил это название.</string>
+        <string key="fact_1">2. ДВИЖОК
+            Игра разрабатывалась на языке java с использованием среды разработки Eclipse и фреймворка libgdx.</string>
+            
+
+        <string key="fact_2">3. О ПЕРВОМ МИРЕ
+            Первый мир перерисовывался 2 раза. Сначала это была демо-версия с летящими квадратами и линиями.
+            Затем они были заменены чуть более красивыми абстрактныим фигурами, а мир носил название "Абстрактный мир".
+            Позже было решено перенести его в космос, т.к. графика была очень слабой на фоне других миров.</string>
+        <string key="fact_3">4. О ВРЕМЕНИ РАЗРАБОТКИ
+            Игра разрабатывалась 6 месяцев, поскольку Максим Спирихин (автор игры) разрабатывал ее 
+            в одиночку, в свободное время, параллельно учась в вузе и подрабатывая программистом.</string>
+            
+            
+            
+        
+         <string key="fact_4">5. ОБ ИСТОРИИ АВТОРА
+           Разработчик начал заниматься программированием лишь за год до начала разработки этой игры.
+           Путь был примерно таким - Pascal (полностью), C++ (основы ООП), C#, Java, Android-программирование, libgdx ...</string> 
+        <string key="fact_5">6. ОБ ИДЕЕ ИГРЫ
+            "Идея пришла мне почти мгновенно, когда я задумался, какую игры можно сделать для смартфонов.
+            Она должна верно использовать сенсорное управление, не должно быть ничего лишнего.
+            Нужно водить пальцем по экрану и уворачиваться от всего, что летит.",- автор.</string>
+        
+        
+       <string key="fact_6">7. СТАТИСТИКА
+           Разработка велась - 6 месяцев
+           Чистой работы - 1 месяц 
+           Написано строк - 16000
+           Производительность - 536 строк в день.
+           Эти данные примерны и не учитывают создание графики и уровней.</string> 
+       <string key="fact_7">8. О ГРАФИКЕ
+            Автор создавал графику в одиночку (за исключением пары объектов). 
+            Почти все изображения и фоны были найдены в интернете и обработаны. 
+            Вручную текстуры не рисовались. </string>
+       
+           
+       <string key="fact_8">9. О 4 МИРЕ
+            Изначально планировалось 2 мира - джунгли и дорога. 
+            Однако геймплейных идей было недостаточно, поэтому они слились в 1 мир - погоня.</string>   
+       <string key="fact_9">10. О ДЬЯВОЛЕ И ГИТЛЕРЕ
+           В самом начале разработки, было решено, что одним из миров станет ад с боссом Дьяволом.
+           Когда под это подгонялся сюжет, был введен Гитлер, который в итоге стал противником еще более серьезным, чем Дьявол.</string> 
+       
+       
+       
+       <string key="fact_10">11. О 5 МИРЕ
+           В мире "Исходный код" нет новых элементов геймплея. В нем грамотно объединяются все враги из предыдущих.</string>   
+       <string key="fact_11">12. ПЕРВЫЙ ВАРИАНТ СЮЖЕТА
+            Первоначальный набросок сюжета - 
+            "Главный герой игры – ваш указательный палец. Он говорит, что он живой и умеет говорить, а эта игра позволяет ему общаться с вами. 
+            Он говорит, что "палец-злодей" похитил "принцессу-палец" (можно это изменить). 
+            Чтобы найти злодея, палец должен пройтись по всем мирам, а ваш смартфон – это телепортатор туда. 
+            На каждом уровне вы должны уворачиваться и ждать перезагрузки телепорта."</string>
+            
+       
+       
+        <string key="fact_12">13. АЛЬТЕРНАТИВНАЯ КОНЦОВКА
+            Долгое время автор намеревался в конце сообщить, что ваш палец на самом деле злодей, что он все подстроил.
+            Этим бы и объяснялся уровень с его уничтожением. Однако, этот поворот не сочетался с остальным сюжетом,
+            поэтому автор от него отказался.</string>
+         <string key="fact_13">14. СИКВЕЛ
+           Продолжение никогда не выйдет, однако идеи для него непроизвольно появились - 
+           1. Игра называется "We are Your Fingers"
+           2. В игре 2 персонажа - игра за них отличается. За первого геймплей, как в этой части. Второй же умеет стрелять (как в битве с Альфой).
+           3. Карта уровней теперь нелинейна.
+           4. Сюжет будет еще более бредовым, в нем встретятся пришельцы, конец света и путешествия во времени.
+           
+           Но, это лишь мысли. Разработка начнется лишь в случае КРУПНОГО коммерческого успеха этой части.</string>
+        
+        
+        
+        <!-- Music descriptions -->
+        <string key="music_0">ЛЮДВИГ ВАН БЕТХОВЕН - 
+            ЛУННАЯ СОНАТА
+            
+            (Меню)
+           	</string>
+        
+        <string key="music_1">ПЕТР ЧАЙКОВСКИЙ -
+            ИЮНЬ (БАРКАРОЛА) 
+            
+            (Космос)
+		</string>
+		
+        <string key="music_2">АНТОНИО ВИВАЛЬДИ - 
+            ШТОРМ  
+            
+            (Небеса)
+		</string>
+		
+         <string key="music_3">EJ YERICK -
+             РАК ВРЕМЕНИ
+             
+             (Ад)
+		</string>
+   
+         <string key="music_4">RONDO VENEZIANO - 
+             ODISSEA VENEZIANA
+             
+             (Погоня)
+		</string>
+		
+         <string key="music_5">MAKSIM MRVICA - 
+             CROATIAN RHAPSODY
+             
+             (Исходный код)
+		</string>
+		
+         <string key="music_6"> ULYTAU - 
+             TOCCATA AND FUGUE
+             
+             (Босс)
+		</string>
+		
+           <string key="music_7">ESCALA - 
+             PALLADIO
+             
+             (Финал)
+		</string>
+        
+        
+    </lang>
+
+</langs>

@@ -1,0 +1,11 @@
+{
+	currentMonster:0,
+	backgroundIndex:5,
+	backgroundMoveTime:2.5,
+	textColor:"000000FF",
+	extraTime:0,
+	monstersInfo:
+	[
+		{mode:[500,700,20,200],id:15,time:11,backgroundName:gun,size:[0.4, 0.8, 0.67, 1, 0.1,0.2],next:0,anim:0},
+	],
+}

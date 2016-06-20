@@ -1,0 +1,24 @@
+{
+	currentMonster:0,
+	backgroundIndex:5,
+	backgroundMoveTime:0,
+	extraTime:0.6,
+	textColor:"FF0000FF",
+	monstersInfo:
+	[
+		{mode:[-1,2],id:1,time:1.1,backgroundName:apple,size:[0.2],next:0.5,anim:0},
+		{mode:[-1],id:1,time:1.1,backgroundName:ananas,size:[0.18,0.3],next:0.5,anim:0},
+		{mode:[-1,2],id:1,time:1.1,backgroundName:mandarin,size:[0.2],next:0.5,anim:0},
+		{mode:[-1,2],id:1,time:1.1,backgroundName:banana,size:[0.2],next:0.5,anim:0},
+		{mode:[-1,2],id:1,time:1.1,backgroundName:mandarin,size:[0.2],next:0.5,anim:0},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:apple,size:[0.2],next:0.5,anim:0},
+		{mode:[-1],id:1,time:1.1,backgroundName:ananas,size:[0.18,0.3],next:0.5,anim:0},
+		{mode:[-1,2],id:1,time:1.1,backgroundName:apple,size:[0.2],next:0.5,anim:0},
+		{mode:[-1,2],id:1,time:1.1,backgroundName:mandarin,size:[0.2],next:0.5,anim:0},
+		{mode:[-1,2],id:1,time:1.1,backgroundName:banana,size:[0.2],next:0.5,anim:0},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:apple,size:[0.2],next:0.5,anim:0},
+
+		{mode:[-2,1000,400],id:6,time:3,backgroundName:tiger,size:[0.8],next:0,anim:0.2},
+		
+	],
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<colors>
+    
+    <string key="text_main_menu" >FFFFFFFF
+    </string>
+
+    <string key="text_1" >FFFFFFFF
+    </string>
+    
+     <string key="text_2" >000000FF
+    </string>
+    
+     <string key="text_3" >FFFFFFFF
+    </string>
+    
+     <string key="text_4" >000000FF
+    </string>
+    
+      <string key="text_5" >009800FF
+    </string>
+    
+        <string key="text_6" >FFFFFFFF
+    </string>
+
+    <string key="button_1" >000000FF
+    </string>
+    
+    <string key="button_2" >000000FF
+    </string>
+    
+     <string key="button_3"> 000000FF
+    </string>
+    
+    <string key="button_4"> 000000FF
+    </string>
+    
+    <string key="button_5"> 000000FF
+    </string>
+
+</colors>

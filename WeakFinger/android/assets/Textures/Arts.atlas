@@ -1,0 +1,61 @@
+
+Arts.png
+size: 906,904
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 2, 454
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 606, 190
+  size: 280, 367
+  orig: 280, 367
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 304, 454
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 304, 2
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 606, 559
+  size: 300, 345
+  orig: 300, 345
+  offset: 0, 0
+  index: -1
+
+Arts2.png
+size: 252,377
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 250, 375
+  orig: 250, 375
+  offset: 0, 0
+  index: -1

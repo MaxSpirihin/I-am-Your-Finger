@@ -1,0 +1,45 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	extraTime:0.5,
+	monstersInfo:
+	[
+		{mode:[50,1,2000],id:11,time:1.8,backgroundName:sword,size:[0.1,0.7],next:0.5},
+		{mode:[50,2,2100],id:11,time:1.8,backgroundName:sword,size:[0.1,0.7],next:0.5},
+		{mode:[25,1,1900],id:11,time:1.8,backgroundName:sword,size:[0.1,0.7],next:0.5},
+		{mode:[75,2,2200],id:11,time:1.8,backgroundName:sword,size:[0.1,0.7],next:0.5},
+		{mode:[-2,1,2000],id:11,time:1.8,backgroundName:sword,size:[0.1,0.7],next:0.5},
+		{mode:[-2,2,2100],id:11,time:1.8,backgroundName:sword,size:[0.1,0.7],next:0},
+		
+		
+		{mode:[50,1,1500],id:11,time:1.8,backgroundName:chain,size:[0.1,0.9],next:1},
+		{mode:[50,2,1500],id:11,time:1.8,backgroundName:chain,size:[0.1,0.9],next:1},
+		{mode:[50,1,1500],id:11,time:1.8,backgroundName:chain,size:[0.1,0.9],next:0},
+		
+		{mode:[50,1,2500],id:11,time:2.4,backgroundName:chain,size:[0.2,1.8],next:1},
+		{mode:[50,2,2500],id:11,time:2.4,backgroundName:chain,size:[0.2,1.8],next:0},
+
+		
+		
+		{mode:[50,1,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[-1,2,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[50,1,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[-1,2,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[50,1,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[-1,2,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[50,1,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[-1,2,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[50,1,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[-1,2,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[50,1,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0.6},
+		{mode:[-1,2,700],id:1,time:1.2,backgroundName:axe,size:[0.4],next:0},
+		
+		
+
+	
+			
+		
+	],
+}

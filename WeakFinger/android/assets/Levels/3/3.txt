@@ -1,0 +1,12 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	extraTime:0.3,
+	textColor:"FFFFFFFF",
+	monstersInfo:
+	[
+		{mode:[-2,600,200],id:6,time:10,backgroundName:hell,size:[0.8],next:0,anim:0.2},
+		{mode:[-2,1000,300],id:6,time:10,backgroundName:hell,size:[1],next:0,anim:0.2},
+	],
+}

@@ -1,0 +1,39 @@
+{
+	currentMonster:0,
+	backgroundIndex:7,
+	backgroundMoveTime:0,
+	textColor:"000000FF",
+	monstersInfo:
+	[
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		
+		{mode:[4],id:9,time:7,backgroundName:snow,size:[0.4],next:0,anim:0},
+		
+		
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		{mode:[-1,2,400],id:1,time:0.7,backgroundName:snow_ball,size:[0.2],next:0.2,anim:0},
+		
+		{mode:[4,0],id:9,time:7,backgroundName:snow,size:[0.45],next:0,anim:0},
+	],
+}

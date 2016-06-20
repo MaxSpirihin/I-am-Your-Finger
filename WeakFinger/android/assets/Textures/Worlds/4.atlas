@@ -1,0 +1,445 @@
+
+4.png
+size: 1016,1020
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arcade
+  rotate: false
+  xy: 2, 764
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 2
+  size: 264, 154
+  orig: 264, 154
+  offset: 0, 0
+  index: 4
+background
+  rotate: false
+  xy: 404, 160
+  size: 200, 356
+  orig: 200, 356
+  offset: 0, 0
+  index: 2
+background
+  rotate: false
+  xy: 606, 160
+  size: 200, 356
+  orig: 200, 356
+  offset: 0, 0
+  index: 7
+background
+  rotate: false
+  xy: 808, 160
+  size: 200, 356
+  orig: 200, 356
+  offset: 0, 0
+  index: 8
+boss
+  rotate: false
+  xy: 516, 620
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: -1
+boss_bomb
+  rotate: false
+  xy: 552, 30
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+boss_dead
+  rotate: false
+  xy: 268, 6
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+mandarin
+  rotate: false
+  xy: 420, 28
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+menu_down
+  rotate: false
+  xy: 682, 30
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+snow_flow
+  rotate: false
+  xy: 2, 662
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+snow_flow_first
+  rotate: false
+  xy: 2, 560
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+snow_flow_last
+  rotate: false
+  xy: 504, 518
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+snow_save
+  rotate: false
+  xy: 812, 58
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+winner
+  rotate: false
+  xy: 2, 158
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+42.png
+size: 1008,1014
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+apple
+  rotate: false
+  xy: 260, 811
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 913
+  size: 360, 101
+  orig: 360, 101
+  offset: 0, 0
+  index: 6
+background
+  rotate: false
+  xy: 364, 758
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+background
+  rotate: false
+  xy: 260, 584
+  size: 350, 172
+  orig: 350, 172
+  offset: 0, 0
+  index: 5
+background
+  rotate: false
+  xy: 778, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 3
+boss_boom
+  rotate: false
+  xy: 2, 655
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+boss_bullet
+  rotate: false
+  xy: 198, 73
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+gun_bullet
+  rotate: false
+  xy: 198, 73
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+boss_gun
+  rotate: false
+  xy: 2, 397
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+boss_hand_left
+  rotate: false
+  xy: 612, 500
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+boss_hand_right
+  rotate: false
+  xy: 622, 758
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+boss_live
+  rotate: false
+  xy: 518, 518
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+boss_skin
+  rotate: false
+  xy: 260, 326
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+boss_spring
+  rotate: false
+  xy: 870, 500
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+boss_win
+  rotate: false
+  xy: 2, 139
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+grenade_peace
+  rotate: false
+  xy: 198, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 132, 9
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+gun_gun
+  rotate: false
+  xy: 260, 68
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+menu_up
+  rotate: false
+  xy: 2, 9
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+next_down
+  rotate: false
+  xy: 518, 28
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+next_up
+  rotate: false
+  xy: 648, 28
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shark
+  rotate: false
+  xy: 690, 242
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank
+  rotate: false
+  xy: 518, 158
+  size: 170, 340
+  orig: 170, 340
+  offset: 0, 0
+  index: -1
+tank_rocket
+  rotate: false
+  xy: 880, 758
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+
+43.png
+size: 1016,1015
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ananas
+  rotate: false
+  xy: 786, 674
+  size: 100, 167
+  orig: 100, 167
+  offset: 0, 0
+  index: -1
+banana
+  rotate: false
+  xy: 204, 843
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 900, 815
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: 1
+car
+  rotate: false
+  xy: 176, 436
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: 2
+car
+  rotate: false
+  xy: 176, 234
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: 3
+daemon
+  rotate: false
+  xy: 2, 464
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+daemon_save
+  rotate: false
+  xy: 378, 843
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+daemon_save_bright
+  rotate: false
+  xy: 2, 290
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 552, 843
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+grenade
+  rotate: false
+  xy: 2, 815
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+hummer
+  rotate: false
+  xy: 378, 641
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+lost
+  rotate: false
+  xy: 2, 116
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+monkey
+  rotate: false
+  xy: 726, 843
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+monkey_rocket
+  rotate: false
+  xy: 176, 132
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+race
+  rotate: false
+  xy: 480, 641
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: 1
+race
+  rotate: false
+  xy: 582, 641
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: 2
+race
+  rotate: false
+  xy: 684, 641
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: 3
+restart_down
+  rotate: false
+  xy: 888, 685
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+restart_up
+  rotate: false
+  xy: 204, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+snow_ball
+  rotate: false
+  xy: 204, 669
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+snow_save_attack
+  rotate: false
+  xy: 2, 14
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+tiger
+  rotate: false
+  xy: 2, 638
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1

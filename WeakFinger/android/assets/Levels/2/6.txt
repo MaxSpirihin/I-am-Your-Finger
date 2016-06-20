@@ -1,0 +1,124 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:3,
+	textColor:"000000FF",
+	extraTime:0.6,
+	monstersInfo:
+	[
+	
+		{mode:[35],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[65],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[35],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[65],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[35],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[65],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[35],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[65],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[35],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[65],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[0],id:1,time:1.5,backgroundName:helicopter,size:[0.5,0.8,0.55,0.02,0.4],next:0.1,anim:0.01},
+		
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[75],id:1,time:1.5,backgroundName:helicopter,size:[0.5,0.8,0.55,0.02,0.4],next:0.1,anim:0.01},
+		
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[25],id:1,time:1.5,backgroundName:helicopter,size:[0.5,0.8,0.55,0.02,0.4],next:1,anim:0.01},
+		
+		
+		
+		
+		
+		
+		
+		
+		{mode:[25],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		{mode:[75],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		{mode:[25],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		{mode:[75],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		{mode:[25],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		{mode:[75],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		{mode:[25],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		{mode:[75],id:1,time:1.2,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.6,anim:0},
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.001,anim:0},
+		{mode:[25],id:1,time:0.8,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.001,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.001,anim:0},
+		{mode:[25],id:1,time:0.8,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.001,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.001,anim:0},
+		{mode:[25],id:1,time:0.8,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.001,anim:0},
+		{mode:[90],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[60],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0,anim:0},
+		
+		
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.001,anim:0},
+		{mode:[75],id:1,time:0.8,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.001,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.001,anim:0},
+		{mode:[75],id:1,time:0.8,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.001,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.001,anim:0},
+		{mode:[75],id:1,time:0.8,backgroundName:plane,size:[0.6,1.2,0.7,0.42,0.05],next:0.001,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[10],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0.1,anim:0},
+		{mode:[40],id:1,time:0.8,backgroundName:rocket,size:[0.1,0.2],next:0,anim:0},
+		
+
+
+		
+
+	],
+}

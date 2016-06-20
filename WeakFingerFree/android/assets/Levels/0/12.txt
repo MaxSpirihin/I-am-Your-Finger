@@ -1,0 +1,26 @@
+{
+	currentMonster:0,
+	backgroundIndex:10,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	extraTime:0.5,
+	monstersInfo:
+	[
+		{mode:[-1,1],id:1,time:1.1,backgroundName:linear,size:[0.2],next:0.7,anim:0},
+		{mode:[0,1000],id:2,time:2.5,backgroundName:dust,size:[0.1,0.25],next:1.8},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:linear,size:[0.2],next:0.7,anim:0},
+		{mode:[0,4,1,800],id:4,time:1.5,backgroundName:electro,size:[0.1],next:1.2},
+		{mode:[1],id:3,time:1.8,backgroundName:comet,size:[0.15],next:1.3},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:linear,size:[0.2],next:0.7,anim:0},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:linear,size:[0.2],next:0.7,anim:0},
+		{mode:[1],id:3,time:1.8,backgroundName:comet,size:[0.15],next:1.3},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:linear,size:[0.2],next:0.7,anim:0},
+		{mode:[0,4,1,800],id:4,time:1.5,backgroundName:electro,size:[0.1],next:1.2},
+		{mode:[0,1000],id:2,time:2.5,backgroundName:dust,size:[0.1,0.25],next:1.8},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:linear,size:[0.2],next:0.7,anim:0},
+		{mode:[-1,1],id:1,time:1.1,backgroundName:linear,size:[0.2],next:0.7,anim:0},
+		
+		
+				
+	],
+}

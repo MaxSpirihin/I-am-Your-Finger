@@ -1,0 +1,27 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:5,
+	textColor:"000000FF",
+	extraTime:0.4,
+	monstersInfo:
+	[
+		{mode:[0,50,10],id:5,time:3,backgroundName:bomb,size:[0.2,0.8],next:0,anim:0.2},
+		{mode:[25,25,20],id:5,time:1,backgroundName:bomb,size:[0.2,0.8],next:0.001,anim:0.2},
+		{mode:[75,75,10],id:5,time:2,backgroundName:bomb,size:[0.2,0.8],next:1,anim:0.2},
+		{mode:[75,35,10],id:5,time:2,backgroundName:bomb,size:[0.2,1],next:0,anim:0.2},
+		
+		{mode:[0,75,20,1],id:5,time:2,backgroundName:bomb,size:[0.2,1.6],next:0,anim:0.2},
+		{mode:[0,25,10,1],id:5,time:1,backgroundName:bomb,size:[0.2,1.6],next:0,anim:0.2},
+		
+		{mode:[25,90,10,1],id:5,time:2,backgroundName:bomb,size:[0.2,1],next:0.3,anim:0.2},
+		{mode:[75,80,12,1],id:5,time:2,backgroundName:bomb,size:[0.2,1],next:0.3,anim:0.2},
+		{mode:[25,70,14,1],id:5,time:2,backgroundName:bomb,size:[0.2,1],next:0.3,anim:0.2},
+		{mode:[75,60,16,1],id:5,time:2,backgroundName:bomb,size:[0.2,1],next:0.3,anim:0.2},
+		{mode:[25,50,18,1],id:5,time:2,backgroundName:bomb,size:[0.2,1],next:0,anim:0.2},
+		
+		{mode:[0,75,20,1],id:5,time:2,backgroundName:bomb,size:[0.2,1.6],next:0,anim:0.2},
+		
+		
+	],
+}

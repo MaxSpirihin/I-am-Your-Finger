@@ -1,0 +1,29 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	monstersInfo:
+	[
+		{mode:[-1,-1],id:8,time:1,backgroundName:spike,size:[0.4],next:0,anim:0},
+		{mode:[-1,-1],id:8,time:1,backgroundName:spike,size:[0.4],next:0,anim:0},
+		{mode:[-1,-1],id:8,time:1,backgroundName:spike,size:[0.4],next:0,anim:0},
+		{mode:[-1,-1],id:8,time:1,backgroundName:spike,size:[0.4],next:0,anim:0},
+		
+		{mode:[2],id:9,time:4,backgroundName:lava,size:[0.4],next:0,anim:0},
+		
+		{mode:[0,1500],id:10,time:5,backgroundName:daemon,size:[0.7,0.06],next:0,anim:0},
+		
+		{mode:[-1,-1],id:8,time:1,backgroundName:spike,size:[0.4],next:0,anim:0},
+		{mode:[-1,-1],id:8,time:1,backgroundName:spike,size:[0.4],next:0,anim:0},
+		
+		{mode:[-1],id:2,time:0.9,backgroundName:long,size:[0.1,0.25],next:0.8},
+		{mode:[-1],id:2,time:0.9,backgroundName:long,size:[0.1,0.25],next:0.8},
+		{mode:[-1],id:2,time:0.9,backgroundName:long,size:[0.1,0.25],next:0.8},
+		
+		{mode:[2],id:9,time:4,backgroundName:lava,size:[0.35],next:0,anim:0},
+		
+		{mode:[0,1500],id:10,time:5,backgroundName:daemon,size:[0.7,0.06],next:0,anim:0},
+			
+	],
+}

@@ -1,0 +1,37 @@
+{
+	currentMonster:0,
+	backgroundIndex:2,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	extraTime:0.4,
+	monstersInfo:
+	[
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:3,backgroundName:circle,size:[0.2],next:0.8},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:1,backgroundName:circle,size:[0.05],next:0},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:1,backgroundName:circle,size:[0.05],next:0},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:1,backgroundName:circle,size:[0.05],next:0},
+		{mode:[1],id:3,time:3,backgroundName:circle,size:[0.2],next:0.8},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		{mode:[1],id:3,time:1,backgroundName:circle,size:[0.05],next:0},
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		{mode:[1],id:3,time:3,backgroundName:circle,size:[0.2],next:0.8},
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		{mode:[1],id:3,time:1,backgroundName:circle,size:[0.05],next:0},
+		{mode:[1],id:3,time:1.2,backgroundName:circle,size:[0.15],next:0.8},
+		
+		
+	],
+}

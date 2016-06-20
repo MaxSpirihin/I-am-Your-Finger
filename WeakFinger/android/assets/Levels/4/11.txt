@@ -1,0 +1,13 @@
+{
+	currentMonster:0,
+	backgroundIndex:5,
+	backgroundMoveTime:5,
+	textColor:"000000FF",
+	extraTime:0.3,
+	monstersInfo:
+	[
+		{mode:[1000,900,150,600],id:14,time:8,backgroundName:tank,size:[0.3, 0.6, 0.1, 0.2],next:0,anim:0},
+		{mode:[700,750,100,450],id:14,time:8,backgroundName:tank,size:[0.3, 0.6, 0.09, 0.18],next:0,anim:0},
+	
+	],
+}

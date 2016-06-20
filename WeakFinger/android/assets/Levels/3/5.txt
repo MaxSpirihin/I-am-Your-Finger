@@ -1,0 +1,12 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	monstersInfo:
+	[
+		{mode:[2],id:9,time:7,backgroundName:lava,size:[0.5],next:0,anim:0},
+		{mode:[2],id:9,time:6,backgroundName:lava,size:[0.4],next:0,anim:0},
+		{mode:[2],id:9,time:6,backgroundName:lava,size:[0.3],next:0,anim:0},
+	],
+}

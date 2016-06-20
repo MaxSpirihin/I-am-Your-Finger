@@ -1,0 +1,11 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	monstersInfo:
+	[
+		{mode:[0,1700],id:10,time:8,backgroundName:daemon,size:[0.7,0.06],next:0,anim:0},
+		{mode:[0,1500],id:10,time:8,backgroundName:daemon,size:[0.65,0.08],next:0,anim:0},
+	],
+}

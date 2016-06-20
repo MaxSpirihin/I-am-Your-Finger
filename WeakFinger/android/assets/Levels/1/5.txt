@@ -1,0 +1,30 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	extraTime:0.3,
+	monstersInfo:
+	[
+		{mode:[0,0],id:3,time:1,backgroundName:circle,size:[0.15],next:0, anim:0.2},
+		{mode:[0,1],id:3,time:1,backgroundName:circle,size:[0.15],next:0},
+		{mode:[0,2],id:3,time:1,backgroundName:circle,size:[0.15],next:0},
+		{mode:[0,3],id:3,time:1,backgroundName:circle,size:[0.15],next:0},
+		{mode:[0,4],id:3,time:1,backgroundName:circle,size:[0.15],next:0},
+		{mode:[0,5],id:3,time:1,backgroundName:circle,size:[0.15],next:0},
+		{mode:[0,6],id:3,time:1,backgroundName:circle,size:[0.15],next:0},
+		{mode:[0,7],id:3,time:1,backgroundName:circle,size:[0.15],next:0},
+		
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+		{mode:[1],id:3,time:1.6,backgroundName:circle,size:[0.15],next:0},
+
+	],
+}

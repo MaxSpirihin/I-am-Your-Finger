@@ -1,0 +1,277 @@
+
+3.png
+size: 1022,1008
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arcade
+  rotate: false
+  xy: 2, 8
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 766, 650
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 266
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: 1
+boss_left
+  rotate: false
+  xy: 364, 304
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boss_live
+  rotate: false
+  xy: 870, 22
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+boss_skin
+  rotate: false
+  xy: 766, 392
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+boss_win
+  rotate: false
+  xy: 568, 74
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+circle
+  rotate: false
+  xy: 566, 332
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+daemon
+  rotate: false
+  xy: 826, 218
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+lava_flow
+  rotate: false
+  xy: 568, 12
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 2, 908
+  size: 1000, 100
+  orig: 1000, 100
+  offset: 0, 0
+  index: -1
+menu_down
+  rotate: false
+  xy: 826, 88
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 516, 2
+  size: 50, 300
+  orig: 50, 300
+  offset: 0, 0
+  index: -1
+winner
+  rotate: false
+  xy: 364, 506
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+32.png
+size: 1022,1020
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss
+  rotate: false
+  xy: 2, 204
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: -1
+boss_right
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boss_win
+  rotate: false
+  xy: 378, 336
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+chain
+  rotate: false
+  xy: 2, 570
+  size: 50, 450
+  orig: 50, 450
+  offset: 0, 0
+  index: -1
+daemon_save
+  rotate: false
+  xy: 204, 30
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+spike_light
+  rotate: false
+  xy: 204, 30
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+daemon_save_bright
+  rotate: false
+  xy: 378, 32
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 552, 32
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 726, 116
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+hell
+  rotate: false
+  xy: 54, 656
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: 1
+hell
+  rotate: false
+  xy: 420, 656
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: 2
+hell
+  rotate: false
+  xy: 658, 290
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: 3
+lava_flow_first
+  rotate: false
+  xy: 54, 594
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+lava_flow_last
+  rotate: false
+  xy: 356, 594
+  size: 300, 60
+  orig: 300, 60
+  offset: 0, 0
+  index: -1
+lava_save
+  rotate: false
+  xy: 786, 920
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+lava_save_attack
+  rotate: false
+  xy: 786, 818
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+menu_up
+  rotate: false
+  xy: 368, 206
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+next_down
+  rotate: false
+  xy: 498, 206
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+next_up
+  rotate: false
+  xy: 786, 688
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+33.png
+size: 608,174
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lost
+  rotate: false
+  xy: 2, 2
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+restart_down
+  rotate: false
+  xy: 350, 46
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+restart_up
+  rotate: false
+  xy: 480, 46
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+spike
+  rotate: false
+  xy: 176, 2
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1

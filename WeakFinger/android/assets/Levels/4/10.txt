@@ -1,0 +1,11 @@
+{
+	currentMonster:0,
+	backgroundIndex:5,
+	backgroundMoveTime:0.7,
+	textColor:"000000FF",
+	extraTime:0,
+	monstersInfo:
+	[
+		{mode:[],id:13,time:10,backgroundName:hummer,size:[0.3, 0.6],next:0,anim:0},
+	],
+}

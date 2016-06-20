@@ -1,0 +1,14 @@
+{
+	backgroundIndex:[1,2,9,10],
+	backgroundMoveTime:[0,0,0,0],
+	textColor:"FFFFFFFF",
+	startMonstersInfo:
+	[
+		{mode:[-1,1],id:1,time:1.4,backgroundName:linear,size:[0.2],next:0.9,anim:0},
+		{mode:[-1,1],id:1,time:1.4,backgroundName:linear,size:[0.2],next:0.9,anim:0},
+		{mode:[-1,1],id:1,time:1.4,backgroundName:linear,size:[0.2],next:0.9,anim:0},
+		{mode:[0,4,1,800],id:4,time:2,backgroundName:electro,size:[0.1],next:1.5},
+		{mode:[1],id:3,time:2.5,backgroundName:comet,size:[0.15],next:1.8},
+		{mode:[0,1300],id:2,time:3,backgroundName:dust,size:[0.1,0.25],next:2},
+	],
+}

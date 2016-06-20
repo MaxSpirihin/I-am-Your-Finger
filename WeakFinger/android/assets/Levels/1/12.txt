@@ -1,0 +1,37 @@
+{
+	currentMonster:0,
+	backgroundIndex:1,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	extraTime:0.5,
+	monstersInfo:
+	[
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[0,4,1,800],id:4,time:1.3,backgroundName:triangle,size:[0.1],next:1},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[0,4,1,800],id:4,time:1.3,backgroundName:triangle,size:[0.1],next:1},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[0,1000],id:2,time:2.5,backgroundName:long,size:[0.1,0.25],next:1.25},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[0,4,1,800],id:4,time:1.3,backgroundName:triangle,size:[0.1],next:1},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[0,1000],id:2,time:2.5,backgroundName:long,size:[0.1,0.25],next:1.25},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[0,1000],id:2,time:2.5,backgroundName:long,size:[0.1,0.25],next:1.25},
+		{mode:[0,4,1,800],id:4,time:1.3,backgroundName:triangle,size:[0.1],next:1},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[1],id:3,time:1.5,backgroundName:circle,size:[0.15],next:1},
+		{mode:[-1,1],id:1,time:1,backgroundName:linear,size:[0.2],next:0.4,anim:0},
+		{mode:[0,4,1,800],id:4,time:1.3,backgroundName:triangle,size:[0.1],next:0},
+		
+				
+	],
+}

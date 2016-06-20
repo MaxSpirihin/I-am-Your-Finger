@@ -1,0 +1,22 @@
+{
+	currentMonster:0,
+	backgroundIndex:2,
+	backgroundMoveTime:0,
+	textColor:"FFFFFFFF",
+	extraTime:0.3,
+	monstersInfo:
+	[
+
+		{mode:[0,4],id:3,time:1.8,backgroundName:comet,size:[0.15],next:1.2},
+		{mode:[0,5],id:3,time:1.8,backgroundName:comet,size:[0.15],next:1.2},
+		{mode:[0,6],id:3,time:2,backgroundName:comet,size:[0.15],next:1.2},
+		{mode:[0,7],id:3,time:2,backgroundName:comet,size:[0.15],next:1.2},
+		
+		{mode:[1],id:3,time:1.8,backgroundName:comet,size:[0.1],next:1.3},
+		{mode:[1],id:3,time:1.8,backgroundName:comet,size:[0.15],next:1.3},
+		{mode:[1],id:3,time:1.8,backgroundName:comet,size:[0.2],next:1.3},
+		{mode:[1],id:3,time:1.8,backgroundName:comet,size:[0.15],next:1.3},
+		{mode:[1],id:3,time:1.8,backgroundName:comet,size:[0.2],next:1.3},
+
+	],
+}

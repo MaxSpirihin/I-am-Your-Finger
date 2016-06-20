@@ -1,0 +1,97 @@
+
+ChooseFinal.png
+size: 936,978
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alpha_down
+  rotate: false
+  xy: 2, 132
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+alpha_up
+  rotate: false
+  xy: 364, 774
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+back_down
+  rotate: false
+  xy: 808, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+back_up
+  rotate: false
+  xy: 808, 646
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 338
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+block_down
+  rotate: false
+  xy: 364, 568
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+block_up
+  rotate: false
+  xy: 586, 774
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+comix_down
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+comix_up
+  rotate: false
+  xy: 224, 208
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+final_down
+  rotate: false
+  xy: 364, 362
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+final_up
+  rotate: false
+  xy: 586, 568
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+previous_down
+  rotate: false
+  xy: 808, 850
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+previous_up
+  rotate: false
+  xy: 586, 438
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

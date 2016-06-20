@@ -1,0 +1,553 @@
+<?xml version="1.0"?>
+<langs>
+
+    <lang key="en" >
+        
+        <string key="link" >https://play.google.com/store/apps/details?id=com.yourfinger.game.android
+        </string>
+        
+        <string key="link_self" >https://play.google.com/store/apps/details?id=com.yourfingerfree.game.android
+        </string>
+        
+        <string key="app_name" >I am Your Finger Free
+        </string>
+        
+        <string key="version" >Version 1.00
+         </string>
+         
+        <string key="release_date" >Release Date 15.02.2015
+         </string>
+         
+        <string key="rate_game" >Rate the game
+         </string>
+         
+         <string key="developed_by" >Developed by
+             Maxim Spirikhin:
+         </string>
+         
+         <string key="vk" >vk.com/maaaks777
+         </string>
+         
+         <string key="mail" >maaaks777@mail.ru
+         </string>
+         
+          <string key="help" >Assisted in development
+              Dmitry Spirikhin
+              Dmitry Rumiantsev
+         </string>
+         
+           <string key="last_projects" >My Past Projects
+         </string>
+         
+           <string key="year" >2015
+         </string>
+         
+          <string key="about_author" >Spirikhin Maxim - 2nd year student of NRNU Mephi (Russia), developer of mobile applications for Android, game developer.
+         </string>
+         
+          <string key="from_author" >"This game is my first really serious project. I started to get involved in programming only 1.5 years ago and  "I am Your Finger" is  my reason for pride at the moment. I hope you enjoyed the free-version and suggest to purchase the full. You will find over 60 levels, 5 worlds and the great adventure.
+         </string>     
+              
+
+        
+           <string key="about_last_projects" >You can also look at my past projects
+        </string>
+          
+          
+        <string key="good_job" >Congratulations!
+        </string>
+        
+        <string key="good_job_text1" >World
+        </string>
+        
+        <string key="good_job_text2">has opened in arcade mode.  New materials are available in menu "Extra".  
+        </string>
+        
+        <string key="play_to_open">Play campaign to open.  
+        </string>
+        
+
+        <string key="hold_on" >Hold On        </string>
+
+        <string key="finger_dead" >Finger Is Dead        </string>
+
+        <string key="finger_lost" >Finger Is Lost        </string>
+
+        <string key="press" >Press and hold        </string>
+
+        <string key="level_complete" >Level Complete       </string>
+
+        <string key="loading" >Loading        </string>
+
+        <string key="campaign" >Campaign      </string>
+
+        <string key="arcade" >Arcade       </string>
+
+        <string key="options" >Options     </string>
+
+        <string key="extra" >Extra      </string>
+
+        <string key="hit_him" >Attack him     </string>
+        
+        <string key="score" >Score 
+     </string>
+     
+         <string key="record" >Best result 
+   		</string>
+   		
+         <string key="main_record" >General best result 
+   		</string>
+        
+          <string key="music" >Music 
+   		</string>
+   		
+           <string key="vibro" >Vibro 
+   		</string>
+   		
+            <string key="clear_records" >Clear records
+   		</string>
+   		
+           <string key="clear_all" >Clear progress 
+   		</string>
+   		
+           <string key="are_you_sure" >Are you sure? 
+   		</string>
+   		
+           <string key="clear_records_info" >This action will reset all records in arcade mode
+   		</string>
+   		
+            <string key="clear_all_info" >This action will reset all game progress.
+   		</string>
+   		
+           <string key="arts" >Arts
+   		</string>
+   		
+           <string key="facts" >Interesting facts
+   		</string>
+   		
+           <string key="music" >Music
+   		</string>
+   		
+           <string key="authors" >Authors
+   		</string>
+   		
+             <string key="final" >Final Battle
+   		</string>
+   		
+             <string key="before_explosion" >Before Explosion
+   		</string>
+   		
+             <string key="disabled" >disabled
+   		</string>
+   		
+             <string key="titr" >Developed by 
+                  Spirikhin Maxim
+                  2015
+   		</string>
+   		
+             <string key="skip" >Skip
+   		</string>
+   		
+             <string key="full_version_mm" >Full
+Version
+   		</string>
+   		
+             <string key="full_version" >Full Version
+   		</string>
+   		
+             <string key="welcome" >Welcome
+   		</string>
+   		
+             <string key="first_dialog_text" >You have downloaded the free-version of the game "I am Your Finger". It contains 12 levels and one Boss and is designed to familiarize with the game. The real adventure awaits you in the full version. You can buy it from the main menu.
+   		</string>
+   		
+             <string key="completely_win" >Well, we won. But teleporter does not work. I think you need to purchase the full version. Then everything will turn out. We are waiting for an incredible adventure. </ string>
+   		
+             
+
+        <!-- Worlds Names -->
+
+        <string key="world_1" >Space 		</string>
+   
+
+    
+        
+        <!--  Worlds Description for arcade mode -->
+        <string key="arcade_1">SPACE
+            Asteroids, comets, stardust are flying here. All of them are dangerous.
+            </string>
+            
+        
+        
+
+        <!-- Bosses names and descriptions -->
+
+    
+        <string key="boss_name_1" >Spaceship
+        </string>
+
+
+        <string key="boss_description_1" >SPACESHIP
+			It is attacking us. We have to fight.
+		Importantly, do not let me die. I will destroy him.        
+		</string>
+        
+
+        
+          <string key="boss_win_1" >Spaceship win.
+        </string>
+
+           
+        
+           
+           
+        
+
+        <!-- Levels Description -->
+
+               <string key="1_1" >LET'S BEGIN
+			Control me, moving across the screen. Be careful. Asteroids fly here.
+
+        </string>
+
+        <string key="1_2" >COMETS
+            Teleporter is charging. We have to survive.
+        </string>
+
+        <string key="1_3" >HOLE
+            So, a little bit more. Pass this level and I will teleport to my mission.        </string>
+
+        <string key="1_4" >SKY
+            Where am I? I have teleported to sky. No, I should not be here. This is fighters. MY GOD! MY GOD! MY GOD!
+        </string>
+
+        
+        <string key="1_5" > ABSTRACTION
+             So, teleporter is working badly. Where are we?
+        </string>
+
+        
+        <string key="1_6" >BEAUTY
+		Well, we are in the space, again. It is nice here.
+        </string>
+
+        <string key="1_7" >SKY 2
+            Crap. What is wrong? I am in the sky, again. And I am attacked by helicopters. FOR WHAAAAAAT???
+        </string>
+
+        <string key="1_8" > JUNGLE
+			Now we are in the jungle. Teleporter is unpredictable.        </string>
+
+        <string key="1_9" > ABSTRACTION 2
+             Again I do not understand where we are. You should not have loaded a free version of the game. It does not work. Buy full.        </string>
+
+        <string key="1_10" >SKY 3
+            I realized the problem of teleporter, I think. Hold on a little bit more, I'll try to fix it.        </string>
+
+        <string key="1_11" >SPIKES
+            I have not fixed the teleporter yet. Hold on more. Spikes hit from the ground.
+             Keep me on the illuminated areas.        </string>
+
+        <string key="1_12" >SPACE AGAIN
+            I thought I fixed it, but I did not. We are in the space again. And it is dangerous here.
+        </string>
+
+  		
+  		<!-- Facts -->
+  		<string key="fact_0">1. WEAK FINGER
+First name of the game was "Week Finger".
+Author has made a mistake and has written "Weak Finger".
+As a result, the project of the game has saved this name.</string>
+<string key="fact_1">2. ENGINE
+The game was developed on the java language using the Eclipse development environment and framework libgdx.</string>
+
+           
+          
+        
+    
+    
+    
+    
+    
+    <!-- Music descriptions -->
+        <string key="music_0">LUDWIG VAN BEETHOVEN -
+             MOONLIGHT SONATA
+            
+            (Мenu)
+           	</string>
+        
+   
+         <string key="music_1">RONDO VENEZIANO - 
+             ODISSEA VENEZIANA
+             
+             (Game)
+		</string>
+  </lang>
+
+    
+    
+    
+    
+    
+    <lang key="ru" >
+        
+        
+        <string key="rate_game" >Оценить игру
+         </string>
+         
+         <string key="developed_by" >Разработчик
+             Спирихин Максим
+         </string>
+         
+         
+          <string key="help" >С разработкой помогали
+              Спирихин Дмитрий
+              Румянцев Дмитрий
+         </string>
+         
+           <string key="last_projects" >Мои прошлые проекты
+         </string>
+         
+           <string key="year" >2015
+         </string>
+         
+          <string key="about_author" >Спирихин Максим - студент 2 курса НИЯУ МИФИ, разработчик мобильных приложений под Android, разработчик игр.
+         </string> 
+         
+          <string key="from_author" >"Эта игра - мой первый по-настоящему серьезный проект. Я начал увлекаться программированием лишь 1.5 года назад и "I am Your Finger" на данный момент мой повод для гордости. Я надеюсь, вам понравилась free-версия и прошу вас приобрести полную. В ней вас ждет более 60 уровней, 5 миров и захватывающее приключение."</string>
+        
+           <string key="about_last_projects" >Также можете ознакомиться с моими прошлыми проектами
+        </string>
+          
+          
+           <string key="good_job" >Поздравляем!
+        </string>
+        
+        <string key="good_job_text1" >Мир
+        </string>
+        
+        <string key="good_job_text2">открыт в режиме аркады.  В меню "Другое" доступны новые материалы.  
+        </string>
+        
+         <string key="play_to_open">Играйте кампанию, чтобы открыть.  
+        </string>
+        
+        
+        
+
+        <string key="hold_on" >Держись        </string>
+
+        <string key="finger_dead" >Палец мертв        </string>
+
+        <string key="finger_lost" >Палец потерян       </string>
+
+        <string key="press" >Жми и не отпускай      </string>
+
+        <string key="level_complete" >Уровень пройден        </string>
+
+        <string key="loading" >Загрузка       </string>
+
+        <string key="campaign" >Кампания        </string>
+
+        <string key="arcade" >Аркада        </string>
+
+        <string key="options" >Настройки
+        </string>
+
+        <string key="extra" >Другое
+        </string>
+
+        <string key="hit_him" >Бей его
+        </string>
+        
+         <string key="score" >Результат
+   		</string>
+   		
+         <string key="record" >Рекорд
+   		</string>
+   		
+         <string key="main_record" >Общий рекорд 
+   		</string>
+        
+         <string key="music" >Музыка
+   		</string>
+   		
+          <string key="vibro" >Вибрация 
+   		</string>
+   		
+           <string key="clear_records" >Сбросить рекорды
+   		</string>
+   		
+           <string key="clear_all" >Сбросить прогресс 
+   		</string>
+   		
+               <string key="are_you_sure" >Вы уверены?
+   		</string>
+   		
+           <string key="clear_records_info" >Данное действие сбросит все рекорды в аркадном режиме
+   		</string>
+   		
+           <string key="clear_all_info" >Данное действие сбросит весь игровой прогресс.
+   		</string>
+   		
+           <string key="arts" >Арты
+   		</string>
+   		
+           <string key="facts" >Интересные факты
+   		</string>
+   		
+           <string key="music" >Музыка
+   		</string>
+   		
+           <string key="authors" >Авторы
+   		</string>
+
+   		
+              <string key="titr" >Разработчик - 
+                  Спирихин Максим
+                  2015г.
+   		</string>
+   		
+               <string key="skip" >Пропустить
+   		</string>
+           
+
+           <string key="full_version_mm" >Полная
+версия
+   		</string>
+
+            <string key="full_version" >Полная версия
+   		</string>
+   		
+            <string key="welcome" >Приветствуем
+   		</string>
+   		
+             <string key="first_dialog_text" >Вы скачали free-версию игры "I am Your Finger". Она содержит 12 уровней, отличных от уровней в полной версии и предназначена для ознакомления с игрой. Настоящее приключение ждет вас в полной версии. Вы можете приобрести ее из главного меню.
+   		</string>
+           
+             <string key="completely_win" >Что ж, мы победили. Но телепортатор не работает. Думаю тебе нужно приобрести полную версию. Тогда все получится. Нас ждет невероятное приключение.</string>
+           
+        <!-- Worlds Names -->
+
+        <string key="world_1" >Космос
+        </string>
+
+        
+        
+        <!-- Bosses names and descriptions -->
+
+           <string key="boss_name_1" >Космический корабль
+        </string>
+
+
+        <string key="boss_description_1" >КОСМИЧЕСКИЙ КОРАБЛЬ
+			Он атакует нас. Придется с ним расправиться.
+			Главное, не дай мне умереть. Я его уничтожу.
+        </string>
+        
+
+
+        
+
+        
+          <string key="boss_win_1" >Палец мертв.
+        </string>
+
+        
+        
+        
+         <!--  Worlds Description for arcade mode -->
+        <string key="arcade_1">КОСМОС
+            Астероиды, кометы, звездная пыль - все это летает здесь и представляет огромную опасность.
+            </string>
+        
+        
+        
+        
+
+        <!-- Levels Description -->
+
+        <string key="1_1" >НАЧНЕМ
+			Управляй мной, двигая мной по экрану. Будь осторожен.
+			Здесь летают астероиды. И не отпускай меня.
+        </string>
+
+        <string key="1_2" >КОМЕТЫ
+            Телепортатор заряжается, нужно продержаться.
+        </string>
+
+        <string key="1_3" >ДЫРКА
+            Так, еще чуть-чуть. Пройдешь этот уровень и я телепортируюсь на задание.
+        </string>
+
+        <string key="1_4" >НЕБЕСА
+            Где я? Я телепортировался в небеса. Нет, мне нужно не сюда. Это истребители. БОЖЕ! БОЖЕ! БОЖЕ!        </string>
+
+        
+        <string key="1_5" >АБСТРАКЦИЯ
+            Так, телепортатор глючит. Мы сейчас непонятно где.
+        </string>
+
+        
+        <string key="1_6" >КРАСОТА
+            Что ж, мы снова в космосе. Здесь красиво.
+        </string>
+
+        <string key="1_7" >НЕБЕСА 2
+            Черт. Да что не так? Я опять в небе. И меня атакуют вертолеты. ЗА ЧТООООО???
+        </string>
+
+        <string key="1_8" >ДЖУНГЛИ
+            Теперь мы в джунглях. Телепортатор непредсказуем.
+        </string>
+
+        <string key="1_9" >АБСТРАКЦИЯ 2
+            Мы опять непонятно где. Зря ты приобрел неполную версию игры. Она плохо работает. Иди купи нормальную.
+        </string>
+
+        <string key="1_10" >НЕБЕСА 3
+            Я понял, в чем неполадка телепортатора. Продержись немного, я постараюсь починить.
+        </string>
+
+        <string key="1_11" >ШИПЫ
+            Я не успел починить телепортатор. Продержись еще. Здесь шипы лезут из-под земли. 
+            Держи меня в подсвеченных местах.
+        </string>
+
+        <string key="1_12" >СНОВА КОСМОС
+            Я думал, что починил его, но нет. Мы опять в космосе. И здесь опасно.
+        </string>
+        
+        
+        
+        
+        <!-- Interesting Facts -->
+        
+        <string key="fact_0">1. WEAK FINGER
+            Сначала игра называлась "Week Finger" (Слабый палец),
+            причем автор допустил ошибку и написал "Weak Finger" (Неделя палец).
+            В итоге проект разработки игры так и оставил это название.</string>
+        <string key="fact_1">2. ДВИЖОК
+            Игра разрабатывалась на языке java с использованием среды разработки Eclipse и фреймворка libgdx.</string>
+            
+
+       
+        
+        
+        <!-- Music descriptions -->
+        <string key="music_0">ЛЮДВИГ ВАН БЕТХОВЕН - 
+            ЛУННАЯ СОНАТА
+            
+            (Меню)
+           	</string>
+   
+         <string key="music_1">RONDO VENEZIANO - 
+             ODISSEA VENEZIANA
+             
+             (Игра)
+		</string>
+	
+        
+    </lang>
+
+</langs>

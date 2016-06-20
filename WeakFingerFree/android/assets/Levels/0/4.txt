@@ -1,0 +1,21 @@
+{
+	currentMonster:0,
+	backgroundIndex:3,
+	backgroundMoveTime:2,
+	textColor:"000000FF",
+	extraTime:0.3,
+	monstersInfo:
+	[
+		{mode:[0],id:1,time:2.0,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+		{mode:[25],id:1,time:1.6,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+		{mode:[75],id:1,time:1.4,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+		
+		
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+		{mode:[-1],id:1,time:1.5,backgroundName:plane,size:[0.5,1,0.7,0.42,0.05],next:0,anim:0},
+
+	],
+}

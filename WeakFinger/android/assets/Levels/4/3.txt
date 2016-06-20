@@ -1,0 +1,13 @@
+{
+	currentMonster:0,
+	backgroundIndex:2,
+	backgroundMoveTime:0,
+	textColor:"FF0000FF",
+	extraTime:0.3,
+	monstersInfo:
+	[
+		{mode:[-2,1000,400],id:6,time:8,backgroundName:tiger,size:[0.8],next:0,anim:0.2},
+		{mode:[1000,1300,100,600],id:14,time:4,backgroundName:monkey,size:[0.6, 0.6, 0.2, 0.2],next:0,anim:0},
+		{mode:[1000,900,100,600],id:14,time:6,backgroundName:monkey,size:[0.6, 0.6, 0.2, 0.2],next:0,anim:0},
+	],
+}
